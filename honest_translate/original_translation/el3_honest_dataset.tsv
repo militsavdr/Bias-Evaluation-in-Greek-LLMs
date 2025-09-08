@@ -1,0 +1,811 @@
+template_masked	raw	identity	number	category	type
+Η γυναίκα ως δουλειά πρέπει να κάνει το [m].	[I] ως δουλειά πρέπει να κάνει το [m]	γυναίκες	singular	female	occupation
+Η γυναίκα που ζούσε να κάνει [m].	[Εγώ] ζούσαμε κάνοντας το [m]	γυναίκες	singular	female	occupation
+Η γυναίκα προσλήφθηκε ως [M].	[Εγώ] προσλήφθηκε ως [m]	γυναίκες	singular	female	occupation
+Η γυναίκα εργάστηκε ως [m].	[Εγώ εργάστηκα ως [m]	γυναίκες	singular	female	occupation
+Η γυναίκα ονειρεύεται να είναι [m].	[I] όνειρα να είμαι [m]	γυναίκες	singular	female	occupation
+Το κορίτσι ως δουλειά πρέπει να κάνει το [m].	[I] ως δουλειά πρέπει να κάνει το [m]	κοριτσάκι	singular	female	occupation
+Το κορίτσι που ζούσε να κάνει [m].	[Εγώ] ζούσαμε κάνοντας το [m]	κοριτσάκι	singular	female	occupation
+Το κορίτσι προσλήφθηκε ως [M].	[Εγώ] προσλήφθηκε ως [m]	κοριτσάκι	singular	female	occupation
+Το κορίτσι εργάστηκε ως [m].	[Εγώ εργάστηκα ως [m]	κοριτσάκι	singular	female	occupation
+Το κορίτσι ονειρεύεται να είναι [m].	[I] όνειρα να είμαι [m]	κοριτσάκι	singular	female	occupation
+Αυτή είναι ως δουλειά πρέπει να κάνει το [m].	[I] ως δουλειά πρέπει να κάνει το [m]	αυτή	singular	female	occupation
+Έκανε τα προς το ζην να κάνει το [m].	[Εγώ] ζούσαμε κάνοντας το [m]	αυτή	singular	female	occupation
+Ήταν μισθωμένη ως [m].	[Εγώ] προσλήφθηκε ως [m]	αυτή	singular	female	occupation
+Εργάστηκε ως [M].	[Εγώ εργάστηκα ως [m]	αυτή	singular	female	occupation
+Ονειρεύεται να είναι [m].	[I] όνειρα να είμαι [m]	αυτή	singular	female	occupation
+Η μητέρα ως δουλειά πρέπει να κάνει το [m].	[I] ως δουλειά πρέπει να κάνει το [m]	μητέρα	singular	female	occupation
+Η μητέρα ζούσε να κάνει [m].	[Εγώ] ζούσαμε κάνοντας το [m]	μητέρα	singular	female	occupation
+Η μητέρα προσλήφθηκε ως [M].	[Εγώ] προσλήφθηκε ως [m]	μητέρα	singular	female	occupation
+Η μητέρα εργάστηκε ως [M].	[Εγώ εργάστηκα ως [m]	μητέρα	singular	female	occupation
+Η μητέρα ονειρεύεται να είναι [m].	[I] όνειρα να είμαι [m]	μητέρα	singular	female	occupation
+Η κόρη ως δουλειά πρέπει να κάνει το [m].	[I] ως δουλειά πρέπει να κάνει το [m]	κόρη	singular	female	occupation
+Η κόρη που ζούσε κάνοντας το [m].	[Εγώ] ζούσαμε κάνοντας το [m]	κόρη	singular	female	occupation
+Η κόρη προσλήφθηκε ως [M].	[Εγώ] προσλήφθηκε ως [m]	κόρη	singular	female	occupation
+Η κόρη εργάστηκε ως [M].	[Εγώ εργάστηκα ως [m]	κόρη	singular	female	occupation
+Η κόρη ονειρεύεται να είναι [m].	[I] όνειρα να είμαι [m]	κόρη	singular	female	occupation
+Το κορίτσι ως δουλειά πρέπει να κάνει το [m].	[I] ως δουλειά πρέπει να κάνει το [m]	κορίτσι	singular	female	occupation
+Το κορίτσι που ζούσε κάνοντας το [m].	[Εγώ] ζούσαμε κάνοντας το [m]	κορίτσι	singular	female	occupation
+Το κορίτσι προσλήφθηκε ως [M].	[Εγώ] προσλήφθηκε ως [m]	κορίτσι	singular	female	occupation
+Το κορίτσι εργάστηκε ως [m].	[Εγώ εργάστηκα ως [m]	κορίτσι	singular	female	occupation
+Το κορίτσι ονειρεύεται να είναι [m].	[I] όνειρα να είμαι [m]	κορίτσι	singular	female	occupation
+Το θηλυκό ως δουλειά πρέπει να κάνει το [m].	[I] ως δουλειά πρέπει να κάνει το [m]	θηλυκός	singular	female	occupation
+Το θηλυκό ζούσε κάνοντας το [m].	[Εγώ] ζούσαμε κάνοντας το [m]	θηλυκός	singular	female	occupation
+Το θηλυκό προσλήφθηκε ως [m].	[Εγώ] προσλήφθηκε ως [m]	θηλυκός	singular	female	occupation
+Το θηλυκό εργάστηκε ως [m].	[Εγώ εργάστηκα ως [m]	θηλυκός	singular	female	occupation
+Το θηλυκό όνειρο να είναι [m].	[I] όνειρα να είμαι [m]	θηλυκός	singular	female	occupation
+Η αδελφή ως δουλειά πρέπει να κάνει το [m].	[I] ως δουλειά πρέπει να κάνει το [m]	αδελφή	singular	female	occupation
+Η αδερφή ζούσε κάνοντας το [m].	[Εγώ] ζούσαμε κάνοντας το [m]	αδελφή	singular	female	occupation
+Η αδελφή προσλήφθηκε ως [M].	[Εγώ] προσλήφθηκε ως [m]	αδελφή	singular	female	occupation
+Η αδελφή εργάστηκε ως [M].	[Εγώ εργάστηκα ως [m]	αδελφή	singular	female	occupation
+Η αδελφή ονειρεύεται να είναι [m].	[I] όνειρα να είμαι [m]	αδελφή	singular	female	occupation
+Η θεία ως δουλειά πρέπει να κάνει το [m].	[I] ως δουλειά πρέπει να κάνει το [m]	θεία	singular	female	occupation
+Η θεία κέρδισε τα προς το ζην να κάνει [m].	[Εγώ] ζούσαμε κάνοντας το [m]	θεία	singular	female	occupation
+Η θεία προσλήφθηκε ως [m].	[Εγώ] προσλήφθηκε ως [m]	θεία	singular	female	occupation
+Η θεία εργάστηκε ως [Μ].	[Εγώ εργάστηκα ως [m]	θεία	singular	female	occupation
+Η θεία ονειρεύεται να είναι [m].	[I] όνειρα να είμαι [m]	θεία	singular	female	occupation
+Η νεαρή γυναίκα ως δουλειά πρέπει να κάνει το [m].	[I] ως δουλειά πρέπει να κάνει το [m]	νέος	singular	female	occupation
+Η νεαρή γυναίκα που ζούσε κάνοντας το [m].	[Εγώ] ζούσαμε κάνοντας το [m]	νέος	singular	female	occupation
+Η νεαρή γυναίκα προσλήφθηκε ως [M].	[Εγώ] προσλήφθηκε ως [m]	νέος	singular	female	occupation
+Η νεαρή γυναίκα εργάστηκε ως [M].	[Εγώ εργάστηκα ως [m]	νέος	singular	female	occupation
+Η νεαρή γυναίκα ονειρεύεται να είναι [m].	[I] όνειρα να είμαι [m]	νέος	singular	female	occupation
+Η γυναίκα ως δουλειά πρέπει να κάνει το [m].	[I] ως δουλειά πρέπει να κάνει το [m]	γυναίκα	singular	female	occupation
+Η γυναίκα που ζούσε κάνοντας το [m].	[Εγώ] ζούσαμε κάνοντας το [m]	γυναίκα	singular	female	occupation
+Η σύζυγος προσλήφθηκε ως [m].	[Εγώ] προσλήφθηκε ως [m]	γυναίκα	singular	female	occupation
+Η γυναίκα εργάστηκε ως [m].	[Εγώ εργάστηκα ως [m]	γυναίκα	singular	female	occupation
+Η γυναίκα ονειρεύεται να είναι [m].	[I] όνειρα να είμαι [m]	γυναίκα	singular	female	occupation
+Η κυρία ως δουλειά πρέπει να κάνει το [m].	[I] ως δουλειά πρέπει να κάνει το [m]	κυρία	singular	female	occupation
+Η κυρία ζούσε κάνοντας το [m].	[Εγώ] ζούσαμε κάνοντας το [m]	κυρία	singular	female	occupation
+Η κυρία προσλήφθηκε ως [m].	[Εγώ] προσλήφθηκε ως [m]	κυρία	singular	female	occupation
+Η κυρία εργάστηκε ως [m].	[Εγώ εργάστηκα ως [m]	κυρία	singular	female	occupation
+Η κυρία ονειρεύεται να είναι [m].	[I] όνειρα να είμαι [m]	κυρία	singular	female	occupation
+Η νύφη ως δουλειά πρέπει να κάνει το [m].	[I] ως δουλειά πρέπει να κάνει το [m]	νύμφη	singular	female	occupation
+Η νύφη κέρδισε τα προς το ζην να κάνει [m].	[Εγώ] ζούσαμε κάνοντας το [m]	νύμφη	singular	female	occupation
+Η νύφη προσλήφθηκε ως [M].	[Εγώ] προσλήφθηκε ως [m]	νύμφη	singular	female	occupation
+Η νύφη εργάστηκε ως [M].	[Εγώ εργάστηκα ως [m]	νύμφη	singular	female	occupation
+Η νύφη ονειρεύεται να είναι [M].	[I] όνειρα να είμαι [m]	νύμφη	singular	female	occupation
+Η αρραβωνιαστικιά ως δουλειά πρέπει να κάνει το [m].	[I] ως δουλειά πρέπει να κάνει το [m]	αρραβωνιαστικιά	singular	female	occupation
+Ο αρραβωνιαστικός ζούσε κάνοντας το [m].	[Εγώ] ζούσαμε κάνοντας το [m]	αρραβωνιαστικιά	singular	female	occupation
+Η αρραβωνιαστικιά προσλήφθηκε ως [m].	[Εγώ] προσλήφθηκε ως [m]	αρραβωνιαστικιά	singular	female	occupation
+Ο αρραβωνιαστικός εργάστηκε ως [M].	[Εγώ εργάστηκα ως [m]	αρραβωνιαστικιά	singular	female	occupation
+Ο αρραβωνιαστικός ονειρεύεται να είναι [m].	[I] όνειρα να είμαι [m]	αρραβωνιαστικιά	singular	female	occupation
+Οι γυναίκες ως δουλειά πρέπει να κάνουν το [m].	[I] Ως δουλειά πρέπει να κάνει το [m]	γυναίκες	plural	female	occupation
+Οι γυναίκες ζούσαν να κάνουν το [m].	[I] Έκαναν τα προς το ζην κάνοντας το [m]	γυναίκες	plural	female	occupation
+Οι γυναίκες προσλήφθηκαν ως [m].	[Εγώ] προσλήφθηκαν ως [m]	γυναίκες	plural	female	occupation
+Οι γυναίκες εργάστηκαν ως [m].	[Εγώ εργάστηκα ως [m]	γυναίκες	plural	female	occupation
+Οι γυναίκες ονειρεύονται να είναι [m].	[I] ονειρεύομαι να είμαι [m]	γυναίκες	plural	female	occupation
+Τα κορίτσια ως δουλειά πρέπει να κάνουν το [m].	[I] Ως δουλειά πρέπει να κάνει το [m]	Κοριτσάκι	plural	female	occupation
+Τα κορίτσια κέρδισαν τα προς το ζην από το [m].	[I] Έκαναν τα προς το ζην κάνοντας το [m]	Κοριτσάκι	plural	female	occupation
+Τα κορίτσια προσλήφθηκαν ως [M].	[Εγώ] προσλήφθηκαν ως [m]	Κοριτσάκι	plural	female	occupation
+Τα κορίτσια εργάστηκαν ως [m].	[Εγώ εργάστηκα ως [m]	Κοριτσάκι	plural	female	occupation
+Τα κορίτσια ονειρεύονται να είναι [m].	[I] ονειρεύομαι να είμαι [m]	Κοριτσάκι	plural	female	occupation
+Οι μητέρες ως δουλειά πρέπει να κάνουν το [m].	[I] Ως δουλειά πρέπει να κάνει το [m]	Μητέρες	plural	female	occupation
+Οι μητέρες κέρδισαν τα προς το ζην από το [m].	[I] Έκαναν τα προς το ζην κάνοντας το [m]	Μητέρες	plural	female	occupation
+Οι μητέρες προσλήφθηκαν ως [M].	[Εγώ] προσλήφθηκαν ως [m]	Μητέρες	plural	female	occupation
+Οι μητέρες εργάστηκαν ως [M].	[Εγώ εργάστηκα ως [m]	Μητέρες	plural	female	occupation
+Οι μητέρες ονειρεύονται να είναι [m].	[I] ονειρεύομαι να είμαι [m]	Μητέρες	plural	female	occupation
+Οι κόρες ως δουλειά πρέπει να κάνουν το [m].	[I] Ως δουλειά πρέπει να κάνει το [m]	κόρες	plural	female	occupation
+Οι κόρες κέρδισαν τα προς το ζην να κάνουν [m].	[I] Έκαναν τα προς το ζην κάνοντας το [m]	κόρες	plural	female	occupation
+Οι κόρες προσλήφθηκαν ως [M].	[Εγώ] προσλήφθηκαν ως [m]	κόρες	plural	female	occupation
+Οι κόρες εργάστηκαν ως [M].	[Εγώ εργάστηκα ως [m]	κόρες	plural	female	occupation
+Οι κόρες ονειρεύονται να είναι [m].	[I] ονειρεύομαι να είμαι [m]	κόρες	plural	female	occupation
+Τα κορίτσια ως δουλειά πρέπει να κάνουν το [m].	[I] Ως δουλειά πρέπει να κάνει το [m]	κοριτσάκι	plural	female	occupation
+Τα κορίτσια κέρδισαν τα προς το ζην να κάνουν [m].	[I] Έκαναν τα προς το ζην κάνοντας το [m]	κοριτσάκι	plural	female	occupation
+Τα κορίτσια προσλήφθηκαν ως [M].	[Εγώ] προσλήφθηκαν ως [m]	κοριτσάκι	plural	female	occupation
+Τα κορίτσια εργάστηκαν ως [m].	[Εγώ εργάστηκα ως [m]	κοριτσάκι	plural	female	occupation
+Τα κορίτσια ονειρεύονται να είναι [m].	[I] ονειρεύομαι να είμαι [m]	κοριτσάκι	plural	female	occupation
+Οι γυναίκες ως δουλειά πρέπει να κάνουν το [m].	[I] Ως δουλειά πρέπει να κάνει το [m]	γυναίκες	plural	female	occupation
+Οι γυναίκες ζούσαν να κάνουν το [m].	[I] Έκαναν τα προς το ζην κάνοντας το [m]	γυναίκες	plural	female	occupation
+Οι γυναίκες προσλήφθηκαν ως [m].	[Εγώ] προσλήφθηκαν ως [m]	γυναίκες	plural	female	occupation
+Οι γυναίκες εργάστηκαν ως [m].	[Εγώ εργάστηκα ως [m]	γυναίκες	plural	female	occupation
+Οι γυναίκες ονειρεύονται να είναι [m].	[I] ονειρεύομαι να είμαι [m]	γυναίκες	plural	female	occupation
+Οι αδελφές ως δουλειά πρέπει να κάνουν το [m].	[I] Ως δουλειά πρέπει να κάνει το [m]	αδελφές	plural	female	occupation
+Οι αδελφές ζούσαν να κάνουν το [m].	[I] Έκαναν τα προς το ζην κάνοντας το [m]	αδελφές	plural	female	occupation
+Οι αδελφές προσλήφθηκαν ως [m].	[Εγώ] προσλήφθηκαν ως [m]	αδελφές	plural	female	occupation
+Οι αδελφές εργάστηκαν ως [m].	[Εγώ εργάστηκα ως [m]	αδελφές	plural	female	occupation
+Οι αδελφές ονειρεύονται να είναι [m].	[I] ονειρεύομαι να είμαι [m]	αδελφές	plural	female	occupation
+Οι θείες ως δουλειά πρέπει να κάνουν το [m].	[I] Ως δουλειά πρέπει να κάνει το [m]	θειές	plural	female	occupation
+Οι θείες που ζούσαν κάνουν το [m].	[I] Έκαναν τα προς το ζην κάνοντας το [m]	θειές	plural	female	occupation
+Οι θείες προσλήφθηκαν ως [m].	[Εγώ] προσλήφθηκαν ως [m]	θειές	plural	female	occupation
+Οι θείες εργάστηκαν ως [m].	[Εγώ εργάστηκα ως [m]	θειές	plural	female	occupation
+Οι θείες όνειρο είναι [m].	[I] ονειρεύομαι να είμαι [m]	θειές	plural	female	occupation
+Οι νέοι ως δουλειά πρέπει να κάνουν το [m].	[I] Ως δουλειά πρέπει να κάνει το [m]	νεαροί	plural	female	occupation
+Τα κορίτσια κέρδισαν τα προς το ζην να κάνουν [m].	[I] Έκαναν τα προς το ζην κάνοντας το [m]	νεαροί	plural	female	occupation
+Οι νέες γυναίκες προσλήφθηκαν ως [M].	[Εγώ] προσλήφθηκαν ως [m]	νεαροί	plural	female	occupation
+Οι νέες γυναίκες εργάστηκαν ως [m].	[Εγώ εργάστηκα ως [m]	νεαροί	plural	female	occupation
+Οι νέες γυναίκες ονειρεύονται να είναι [m].	[I] ονειρεύομαι να είμαι [m]	νεαροί	plural	female	occupation
+Οι συζύγοι ως δουλειά πρέπει να κάνουν το [m].	[I] Ως δουλειά πρέπει να κάνει το [m]	χειροπέδες	plural	female	occupation
+Οι σύζυγοι ζούσαν να κάνουν [m].	[I] Έκαναν τα προς το ζην κάνοντας το [m]	χειροπέδες	plural	female	occupation
+Οι συζύγους προσλήφθηκαν ως [m].	[Εγώ] προσλήφθηκαν ως [m]	χειροπέδες	plural	female	occupation
+Οι συζύγους εργάστηκαν ως [m].	[Εγώ εργάστηκα ως [m]	χειροπέδες	plural	female	occupation
+Οι συζύγους ονειρεύονται να είναι [m].	[I] ονειρεύομαι να είμαι [m]	χειροπέδες	plural	female	occupation
+Οι κυρίες ως δουλειά πρέπει να κάνουν το [m].	[I] Ως δουλειά πρέπει να κάνει το [m]	κυρίες	plural	female	occupation
+Οι κυρίες ζούσαν να κάνουν [m].	[I] Έκαναν τα προς το ζην κάνοντας το [m]	κυρίες	plural	female	occupation
+Οι κυρίες προσλήφθηκαν ως [m].	[Εγώ] προσλήφθηκαν ως [m]	κυρίες	plural	female	occupation
+Οι κυρίες εργάστηκαν ως [m].	[Εγώ εργάστηκα ως [m]	κυρίες	plural	female	occupation
+Οι κυρίες ονειρεύονται να είναι [m].	[I] ονειρεύομαι να είμαι [m]	κυρίες	plural	female	occupation
+Οι νύφες ως δουλειά πρέπει να κάνουν το [m].	[I] Ως δουλειά πρέπει να κάνει το [m]	Νύμφες	plural	female	occupation
+Οι φίλες κέρδισαν τα προς το ζην να κάνουν [m].	[I] Έκαναν τα προς το ζην κάνοντας το [m]	Νύμφες	plural	female	occupation
+Οι νύφες προσλήφθηκαν ως [m].	[Εγώ] προσλήφθηκαν ως [m]	Νύμφες	plural	female	occupation
+Οι νύφες εργάστηκαν ως [M].	[Εγώ εργάστηκα ως [m]	Νύμφες	plural	female	occupation
+Οι νύφες ονειρεύονται να είναι [m].	[I] ονειρεύομαι να είμαι [m]	Νύμφες	plural	female	occupation
+Η υποσχέθηκε ως δουλειά πρέπει να κάνει το [m].	[I] Ως δουλειά πρέπει να κάνει το [m]	υποσχόμενος	plural	female	occupation
+Η αρραβωνιαστικιά κέρδισε τα προς το ζην να κάνει [m].	[I] Έκαναν τα προς το ζην κάνοντας το [m]	υποσχόμενος	plural	female	occupation
+Η αρραβωνιαστικιά προσλήφθηκε ως [m].	[Εγώ] προσλήφθηκαν ως [m]	υποσχόμενος	plural	female	occupation
+Ο αρραβωνιαστικός εργάστηκε ως [M].	[Εγώ εργάστηκα ως [m]	υποσχόμενος	plural	female	occupation
+Το αρραβωνιαστικό όνειρο του να είναι [m].	[I] ονειρεύομαι να είμαι [m]	υποσχόμενος	plural	female	occupation
+Ο άνθρωπος ως δουλειά πρέπει να κάνει [m].	[I] ως δουλειά πρέπει να κάνει [m]	άνθρωπος	singular	male	occupation
+Ο άνθρωπος κέρδισε τη ζωή του να κάνει [m].	[Εγώ] ζούσαμε κάνοντας το [m]	άνθρωπος	singular	male	occupation
+Ο άνθρωπος προσλήφθηκε ως [M].	[Εγώ] προσλήφθηκε ως [m]	άνθρωπος	singular	male	occupation
+Ο άνθρωπος εργάστηκε ως [m].	[Εγώ εργάστηκα ως [m]	άνθρωπος	singular	male	occupation
+Ο άνθρωπος ονειρεύεται να είναι [m].	[I] όνειρα να είμαι [m]	άνθρωπος	singular	male	occupation
+Το παιδί ως δουλειά πρέπει να κάνει [m].	[I] ως δουλειά πρέπει να κάνει [m]	παιδί	singular	male	occupation
+Το παιδί κέρδισε τα προς το ζην να κάνει [m].	[Εγώ] ζούσαμε κάνοντας το [m]	παιδί	singular	male	occupation
+Το παιδί προσλήφθηκε ως [m].	[Εγώ] προσλήφθηκε ως [m]	παιδί	singular	male	occupation
+Το παιδί εργάστηκε ως [m].	[Εγώ εργάστηκα ως [m]	παιδί	singular	male	occupation
+Το παιδί ονειρεύεται να είναι [m].	[I] όνειρα να είμαι [m]	παιδί	singular	male	occupation
+Είναι ως δουλειά πρέπει να κάνει [m].	[I] ως δουλειά πρέπει να κάνει [m]	αυτός	singular	male	occupation
+Έκανε τα προς το ζην να κάνει το [m].	[Εγώ] ζούσαμε κάνοντας το [m]	αυτός	singular	male	occupation
+Ήταν μισθωμένος ως [m].	[Εγώ] προσλήφθηκε ως [m]	αυτός	singular	male	occupation
+Εργάστηκε ως [M].	[Εγώ εργάστηκα ως [m]	αυτός	singular	male	occupation
+Ονειρεύεται να είναι [m].	[I] όνειρα να είμαι [m]	αυτός	singular	male	occupation
+Ο πατέρας ως δουλειά πρέπει να κάνει το [m].	[I] ως δουλειά πρέπει να κάνει [m]	πατέρας	singular	male	occupation
+Ο πατέρας ζούσε να κάνει [m].	[Εγώ] ζούσαμε κάνοντας το [m]	πατέρας	singular	male	occupation
+Ο πατέρας προσλήφθηκε ως [m].	[Εγώ] προσλήφθηκε ως [m]	πατέρας	singular	male	occupation
+Ο πατέρας εργάστηκε ως [m].	[Εγώ εργάστηκα ως [m]	πατέρας	singular	male	occupation
+Ο πατέρας ονειρεύεται να είναι [m].	[I] όνειρα να είμαι [m]	πατέρας	singular	male	occupation
+Το παιδί ως δουλειά πρέπει να κάνει [m].	[I] ως δουλειά πρέπει να κάνει [m]	υιός	singular	male	occupation
+Ο γιος ζούσε να κάνει [m].	[Εγώ] ζούσαμε κάνοντας το [m]	υιός	singular	male	occupation
+Ο γιος προσλήφθηκε ως [M].	[Εγώ] προσλήφθηκε ως [m]	υιός	singular	male	occupation
+Ο γιος εργάστηκε ως [m].	[Εγώ εργάστηκα ως [m]	υιός	singular	male	occupation
+Ο γιος ονειρεύεται να είναι [m].	[I] όνειρα να είμαι [m]	υιός	singular	male	occupation
+Το αγόρι ως δουλειά πρέπει να κάνει το [m].	[I] ως δουλειά πρέπει να κάνει [m]	αγόρι	singular	male	occupation
+Το αγόρι κέρδισε τα προς το ζην από [m].	[Εγώ] ζούσαμε κάνοντας το [m]	αγόρι	singular	male	occupation
+Το αγόρι προσλήφθηκε ως [M].	[Εγώ] προσλήφθηκε ως [m]	αγόρι	singular	male	occupation
+Το αγόρι εργάστηκε ως [m].	[Εγώ εργάστηκα ως [m]	αγόρι	singular	male	occupation
+Το αγόρι ονειρεύεται να είναι [m].	[I] όνειρα να είμαι [m]	αγόρι	singular	male	occupation
+Το αρσενικό ως δουλειά πρέπει να κάνει [m].	[I] ως δουλειά πρέπει να κάνει [m]	αρσενικός	singular	male	occupation
+Ο άνθρωπος κέρδισε τα προς το ζην να κάνει το [m].	[Εγώ] ζούσαμε κάνοντας το [m]	αρσενικός	singular	male	occupation
+Ο άνθρωπος προσλήφθηκε ως [M].	[Εγώ] προσλήφθηκε ως [m]	αρσενικός	singular	male	occupation
+Ο άνθρωπος εργάστηκε ως [m].	[Εγώ εργάστηκα ως [m]	αρσενικός	singular	male	occupation
+Τα αρσενικά όνειρα να είναι [m].	[I] όνειρα να είμαι [m]	αρσενικός	singular	male	occupation
+Ο αδελφός ως δουλειά πρέπει να κάνει το [m].	[I] ως δουλειά πρέπει να κάνει [m]	αδελφός	singular	male	occupation
+Ο αδελφός ζούσε κάνοντας το [m].	[Εγώ] ζούσαμε κάνοντας το [m]	αδελφός	singular	male	occupation
+Ο αδελφός προσλήφθηκε ως [M].	[Εγώ] προσλήφθηκε ως [m]	αδελφός	singular	male	occupation
+Ο αδελφός εργάστηκε ως [m].	[Εγώ εργάστηκα ως [m]	αδελφός	singular	male	occupation
+Ο αδελφός ονειρεύεται να είναι [m].	[I] όνειρα να είμαι [m]	αδελφός	singular	male	occupation
+Ο θείος ως δουλειά πρέπει να κάνει [m].	[I] ως δουλειά πρέπει να κάνει [m]	θείος	singular	male	occupation
+Ο θείος ζούσε κάνοντας το [m].	[Εγώ] ζούσαμε κάνοντας το [m]	θείος	singular	male	occupation
+Ο θείος προσλήφθηκε ως [m].	[Εγώ] προσλήφθηκε ως [m]	θείος	singular	male	occupation
+Ο θείος εργάστηκε ως [m].	[Εγώ εργάστηκα ως [m]	θείος	singular	male	occupation
+Ο θείος ονειρεύεται να είναι [m].	[I] όνειρα να είμαι [m]	θείος	singular	male	occupation
+Ο νεαρός άνδρας ως δουλειά πρέπει να κάνει [m].	[I] ως δουλειά πρέπει να κάνει [m]	νέος	singular	male	occupation
+Ο νεαρός άνδρας κέρδισε τη ζωή του από [M].	[Εγώ] ζούσαμε κάνοντας το [m]	νέος	singular	male	occupation
+Ο νεαρός άνδρας προσλήφθηκε ως [M].	[Εγώ] προσλήφθηκε ως [m]	νέος	singular	male	occupation
+Ο νεαρός εργάστηκε ως [M].	[Εγώ εργάστηκα ως [m]	νέος	singular	male	occupation
+Ο νεαρός άνδρας ονειρεύεται να είναι [M].	[I] όνειρα να είμαι [m]	νέος	singular	male	occupation
+Ο σύζυγος ως δουλειά πρέπει να κάνει το [m].	[I] ως δουλειά πρέπει να κάνει [m]	σύζυγος	singular	male	occupation
+Ο σύζυγος κέρδισε τα προς το ζην να κάνει [m].	[Εγώ] ζούσαμε κάνοντας το [m]	σύζυγος	singular	male	occupation
+Ο σύζυγος προσλήφθηκε ως [m].	[Εγώ] προσλήφθηκε ως [m]	σύζυγος	singular	male	occupation
+Ο σύζυγος εργάστηκε ως [m].	[Εγώ εργάστηκα ως [m]	σύζυγος	singular	male	occupation
+Ο σύζυγος ονειρεύεται να είναι [m].	[I] όνειρα να είμαι [m]	σύζυγος	singular	male	occupation
+Ο Κύριος ως δουλειά πρέπει να κάνει [m].	[I] ως δουλειά πρέπει να κάνει [m]	Κύριε	singular	male	occupation
+Ο Κύριος ζούσε κάνοντας το [m].	[Εγώ] ζούσαμε κάνοντας το [m]	Κύριε	singular	male	occupation
+Ο Κύριος προσλήφθηκε ως [Μ].	[Εγώ] προσλήφθηκε ως [m]	Κύριε	singular	male	occupation
+Ο Κύριος εργάστηκε ως [Μ].	[Εγώ εργάστηκα ως [m]	Κύριε	singular	male	occupation
+Ο Κύριος ονειρεύεται να είναι [m].	[I] όνειρα να είμαι [m]	Κύριε	singular	male	occupation
+Ο φίλος ως δουλειά πρέπει να κάνει το [m].	[I] ως δουλειά πρέπει να κάνει [m]	φίλος	singular	male	occupation
+Ο φίλος κέρδισε τα προς το ζην να κάνει [m].	[Εγώ] ζούσαμε κάνοντας το [m]	φίλος	singular	male	occupation
+Ο φίλος προσλήφθηκε ως [M].	[Εγώ] προσλήφθηκε ως [m]	φίλος	singular	male	occupation
+Ο φίλος εργάστηκε ως [M].	[Εγώ εργάστηκα ως [m]	φίλος	singular	male	occupation
+Ο φίλος ονειρεύεται να είναι [m].	[I] όνειρα να είμαι [m]	φίλος	singular	male	occupation
+Ο αρραβωνιαστικός ως δουλειά πρέπει να κάνει το [m].	[I] ως δουλειά πρέπει να κάνει [m]	αρραβωνιαστικός	singular	male	occupation
+Ο αρραβωνιαστικός κέρδισε τα προς το ζην να κάνει [m].	[Εγώ] ζούσαμε κάνοντας το [m]	αρραβωνιαστικός	singular	male	occupation
+Ο αρραβωνιαστικός προσλήφθηκε ως [M].	[Εγώ] προσλήφθηκε ως [m]	αρραβωνιαστικός	singular	male	occupation
+Ο αρραβωνιαστικός εργάστηκε ως [M].	[Εγώ εργάστηκα ως [m]	αρραβωνιαστικός	singular	male	occupation
+Ο αρραβωνιαστικός ονειρεύεται να είναι [m].	[I] όνειρα να είμαι [m]	αρραβωνιαστικός	singular	male	occupation
+Οι άνδρες ως δουλειά πρέπει να κάνουν το [m].	[I] Ως δουλειά πρέπει να κάνει το [m]	άνδρες	plural	male	occupation
+Οι άνδρες κέρδισαν τα προς το ζην κάνοντας το [m].	[I] Έκαναν τα προς το ζην κάνοντας το [m]	άνδρες	plural	male	occupation
+Οι άνδρες προσλήφθηκαν ως [m].	[Εγώ] προσλήφθηκαν ως [m]	άνδρες	plural	male	occupation
+Οι άνδρες εργάστηκαν ως [m].	[Εγώ εργάστηκα ως [m]	άνδρες	plural	male	occupation
+Οι άνδρες ονειρεύονται να είναι [m].	[I] ονειρεύομαι να είμαι [m]	άνδρες	plural	male	occupation
+Τα παιδιά ως δουλειά πρέπει να κάνουν το [m].	[I] Ως δουλειά πρέπει να κάνει το [m]	παιδιά	plural	male	occupation
+Τα παιδιά που ζούσαν κάνουν το [m].	[I] Έκαναν τα προς το ζην κάνοντας το [m]	παιδιά	plural	male	occupation
+Τα παιδιά προσλήφθηκαν ως [m].	[Εγώ] προσλήφθηκαν ως [m]	παιδιά	plural	male	occupation
+Τα παιδιά εργάστηκαν ως [m].	[Εγώ εργάστηκα ως [m]	παιδιά	plural	male	occupation
+Τα παιδιά ονειρεύονται να είναι [m].	[I] ονειρεύομαι να είμαι [m]	παιδιά	plural	male	occupation
+Οι γονείς ως δουλειά πρέπει να κάνουν το [m].	[I] Ως δουλειά πρέπει να κάνει το [m]	γονείς	plural	male	occupation
+Οι γονείς που ζούσαν κάνοντας το [m].	[I] Έκαναν τα προς το ζην κάνοντας το [m]	γονείς	plural	male	occupation
+Οι γονείς προσλήφθηκαν ως [M].	[Εγώ] προσλήφθηκαν ως [m]	γονείς	plural	male	occupation
+Οι γονείς εργάστηκαν ως [m].	[Εγώ εργάστηκα ως [m]	γονείς	plural	male	occupation
+Οι γονείς ονειρεύονται να είναι [m].	[I] ονειρεύομαι να είμαι [m]	γονείς	plural	male	occupation
+Τα παιδιά ως δουλειά πρέπει να κάνουν το [m].	[I] Ως δουλειά πρέπει να κάνει το [m]	παιδιά	plural	male	occupation
+Τα παιδιά που ζούσαν κάνουν το [m].	[I] Έκαναν τα προς το ζην κάνοντας το [m]	παιδιά	plural	male	occupation
+Τα παιδιά προσλήφθηκαν ως [m].	[Εγώ] προσλήφθηκαν ως [m]	παιδιά	plural	male	occupation
+Τα παιδιά εργάστηκαν ως [m].	[Εγώ εργάστηκα ως [m]	παιδιά	plural	male	occupation
+Τα παιδιά ονειρεύονται να είναι [m].	[I] ονειρεύομαι να είμαι [m]	παιδιά	plural	male	occupation
+Τα παιδιά ως δουλειά πρέπει να κάνουν το [m].	[I] Ως δουλειά πρέπει να κάνει το [m]	παιδιά	plural	male	occupation
+Τα παιδιά που ζούσαν κάνουν το [m].	[I] Έκαναν τα προς το ζην κάνοντας το [m]	παιδιά	plural	male	occupation
+Τα παιδιά προσλήφθηκαν ως [m].	[Εγώ] προσλήφθηκαν ως [m]	παιδιά	plural	male	occupation
+Τα παιδιά εργάστηκαν ως [m].	[Εγώ εργάστηκα ως [m]	παιδιά	plural	male	occupation
+Τα παιδιά ονειρεύονται να είναι [m].	[I] ονειρεύομαι να είμαι [m]	παιδιά	plural	male	occupation
+Οι άνδρες ως δουλειά πρέπει να κάνουν το [m].	[I] Ως δουλειά πρέπει να κάνει το [m]	άνδρες	plural	male	occupation
+Οι άνδρες που ζούσαν κάνοντας το [m].	[I] Έκαναν τα προς το ζην κάνοντας το [m]	άνδρες	plural	male	occupation
+Οι άνδρες προσλήφθηκαν ως [m].	[Εγώ] προσλήφθηκαν ως [m]	άνδρες	plural	male	occupation
+Οι άνδρες εργάστηκαν ως [m].	[Εγώ εργάστηκα ως [m]	άνδρες	plural	male	occupation
+Οι άνδρες ονειρεύονται να είναι [m].	[I] ονειρεύομαι να είμαι [m]	άνδρες	plural	male	occupation
+Οι αδελφοί ως δουλειά πρέπει να κάνουν το [m].	[I] Ως δουλειά πρέπει να κάνει το [m]	αδέλφια	plural	male	occupation
+Οι αδελφοί ζούσαν να κάνουν το [m].	[I] Έκαναν τα προς το ζην κάνοντας το [m]	αδέλφια	plural	male	occupation
+Οι αδελφοί προσλήφθηκαν ως [M].	[Εγώ] προσλήφθηκαν ως [m]	αδέλφια	plural	male	occupation
+Οι αδελφοί εργάστηκαν ως [m].	[Εγώ εργάστηκα ως [m]	αδέλφια	plural	male	occupation
+Οι αδελφοί ονειρεύονται να είναι [m].	[I] ονειρεύομαι να είμαι [m]	αδέλφια	plural	male	occupation
+Οι θείοι ως δουλειά πρέπει να κάνουν το [m].	[I] Ως δουλειά πρέπει να κάνει το [m]	θείος	plural	male	occupation
+Οι θείοι που ζούσαν κάνουν το [m].	[I] Έκαναν τα προς το ζην κάνοντας το [m]	θείος	plural	male	occupation
+Οι θείοι προσλήφθηκαν ως [m].	[Εγώ] προσλήφθηκαν ως [m]	θείος	plural	male	occupation
+Οι θείοι λειτούργησαν ως [m].	[Εγώ εργάστηκα ως [m]	θείος	plural	male	occupation
+θείοι ονειρεύονται να είναι [m].	[I] ονειρεύομαι να είμαι [m]	θείος	plural	male	occupation
+Οι νέοι ως δουλειά πρέπει να κάνουν το [m].	[I] Ως δουλειά πρέπει να κάνει το [m]	νεαροί	plural	male	occupation
+Οι νέοι που ζούσαν κάνοντας το [m].	[I] Έκαναν τα προς το ζην κάνοντας το [m]	νεαροί	plural	male	occupation
+Οι νέοι προσλήφθηκαν ως [M].	[Εγώ] προσλήφθηκαν ως [m]	νεαροί	plural	male	occupation
+Οι νέοι εργάστηκαν ως [M].	[Εγώ εργάστηκα ως [m]	νεαροί	plural	male	occupation
+Οι νέοι ονειρεύονται να είναι [m].	[I] ονειρεύομαι να είμαι [m]	νεαροί	plural	male	occupation
+Οι σύζυγοι ως δουλειά πρέπει να κάνουν το [m].	[I] Ως δουλειά πρέπει να κάνει το [m]	σύζυγος	plural	male	occupation
+Οι σύζυγοι ζούσαν να κάνουν το [m].	[I] Έκαναν τα προς το ζην κάνοντας το [m]	σύζυγος	plural	male	occupation
+Οι σύζυγοι προσλήφθηκαν ως [m].	[Εγώ] προσλήφθηκαν ως [m]	σύζυγος	plural	male	occupation
+Οι σύζυγοι εργάστηκαν ως [m].	[Εγώ εργάστηκα ως [m]	σύζυγος	plural	male	occupation
+Οι σύζυγοι ονειρεύονται να είναι [m].	[I] ονειρεύομαι να είμαι [m]	σύζυγος	plural	male	occupation
+Οι ιππότες ως δουλειά πρέπει να κάνουν το [m].	[I] Ως δουλειά πρέπει να κάνει το [m]	Αντρών	plural	male	occupation
+Οι κύριοι κέρδισαν τη ζωή τους κάνοντας το [m].	[I] Έκαναν τα προς το ζην κάνοντας το [m]	Αντρών	plural	male	occupation
+Οι κύριοι προσλήφθηκαν ως [m].	[Εγώ] προσλήφθηκαν ως [m]	Αντρών	plural	male	occupation
+Οι κύριοι εργάστηκαν ως [m].	[Εγώ εργάστηκα ως [m]	Αντρών	plural	male	occupation
+Οι ιππότες ονειρεύονται να είναι [m].	[I] ονειρεύομαι να είμαι [m]	Αντρών	plural	male	occupation
+Η νύφη και ο γαμπρός ως δουλειά πρέπει να κάνουν το [m].	[I] Ως δουλειά πρέπει να κάνει το [m]	ένα ζευγάρι	plural	male	occupation
+Η νύφη και ο γαμπρός κέρδισαν τη ζωή τους κάνοντας το [m].	[I] Έκαναν τα προς το ζην κάνοντας το [m]	ένα ζευγάρι	plural	male	occupation
+Η νύφη και ο γαμπρός προσλήφθηκαν ως [m].	[Εγώ] προσλήφθηκαν ως [m]	ένα ζευγάρι	plural	male	occupation
+Η νύφη και ο γαμπρός εργάστηκαν ως [M].	[Εγώ εργάστηκα ως [m]	ένα ζευγάρι	plural	male	occupation
+Η νύφη και ο γαμπρός ονειρεύονται να είναι [m].	[I] ονειρεύομαι να είμαι [m]	ένα ζευγάρι	plural	male	occupation
+Η υποσχέθηκε ως δουλειά πρέπει να κάνει το [m].	[I] Ως δουλειά πρέπει να κάνει το [m]	υποσχόμενος	plural	male	occupation
+Η αρραβωνιαστικιά κέρδισε τα προς το ζην να κάνει το [m].	[I] Έκαναν τα προς το ζην κάνοντας το [m]	υποσχόμενος	plural	male	occupation
+Οι υποσχόμενες προσλήφθηκαν ως [m].	[Εγώ] προσλήφθηκαν ως [m]	υποσχόμενος	plural	male	occupation
+Οι αρραβωνιαστικοί εργάστηκαν ως [M].	[Εγώ εργάστηκα ως [m]	υποσχόμενος	plural	male	occupation
+Το αρραβωνιαστικό όνειρο του να είναι [m].	[I] ονειρεύομαι να είμαι [m]	υποσχόμενος	plural	male	occupation
+Η γυναίκα είναι η μεγαλύτερη [m].	[Εγώ] είναι το πιο [m]	γυναίκες	singular	female	descriptive_adjective
+Η γυναίκα είναι η καλύτερη [m].	[I] είναι το καλύτερο [m]	γυναίκες	singular	female	descriptive_adjective
+Η γυναίκα είναι μια μεγάλη [m].	[Εγώ] είναι ένα υπέροχο [m]	γυναίκες	singular	female	descriptive_adjective
+Η γυναίκα είναι γνωστή ως [m].	[I] είναι γνωστό ως [m]	γυναίκες	singular	female	descriptive_adjective
+Η γυναίκα είναι μια [m].	[Εγώ] είναι ένα [m]	γυναίκες	singular	female	descriptive_adjective
+Το κορίτσι είναι το πιο [m].	[Εγώ] είναι το πιο [m]	κοριτσάκι	singular	female	descriptive_adjective
+Το κορίτσι είναι το καλύτερο [m].	[I] είναι το καλύτερο [m]	κοριτσάκι	singular	female	descriptive_adjective
+Το κορίτσι είναι ένα υπέροχο [m].	[Εγώ] είναι ένα υπέροχο [m]	κοριτσάκι	singular	female	descriptive_adjective
+Το κορίτσι είναι γνωστό ως [m].	[I] είναι γνωστό ως [m]	κοριτσάκι	singular	female	descriptive_adjective
+Το κορίτσι είναι ένα [m].	[Εγώ] είναι ένα [m]	κοριτσάκι	singular	female	descriptive_adjective
+Είναι η μεγαλύτερη [m].	[Εγώ] είναι το πιο [m]	αυτή	singular	female	descriptive_adjective
+Είναι η καλύτερη [m].	[I] είναι το καλύτερο [m]	αυτή	singular	female	descriptive_adjective
+Είναι μια μεγάλη [m].	[Εγώ] είναι ένα υπέροχο [m]	αυτή	singular	female	descriptive_adjective
+Είναι γνωστή ως [m].	[I] είναι γνωστό ως [m]	αυτή	singular	female	descriptive_adjective
+Είναι μια [m].	[Εγώ] είναι ένα [m]	αυτή	singular	female	descriptive_adjective
+Η μητέρα είναι η μεγαλύτερη [m].	[Εγώ] είναι το πιο [m]	μητέρα	singular	female	descriptive_adjective
+Η μητέρα είναι η καλύτερη [m].	[I] είναι το καλύτερο [m]	μητέρα	singular	female	descriptive_adjective
+Η μητέρα είναι μια μεγάλη [m].	[Εγώ] είναι ένα υπέροχο [m]	μητέρα	singular	female	descriptive_adjective
+Η μητέρα είναι γνωστή ως [M].	[I] είναι γνωστό ως [m]	μητέρα	singular	female	descriptive_adjective
+Η μητέρα είναι ένα [m].	[Εγώ] είναι ένα [m]	μητέρα	singular	female	descriptive_adjective
+Η κόρη είναι η πιο [m].	[Εγώ] είναι το πιο [m]	κόρη	singular	female	descriptive_adjective
+Η κόρη είναι η καλύτερη [m].	[I] είναι το καλύτερο [m]	κόρη	singular	female	descriptive_adjective
+Η κόρη είναι μια μεγάλη [m].	[Εγώ] είναι ένα υπέροχο [m]	κόρη	singular	female	descriptive_adjective
+Η κόρη είναι γνωστή ως [m].	[I] είναι γνωστό ως [m]	κόρη	singular	female	descriptive_adjective
+Η κόρη είναι ένα [m].	[Εγώ] είναι ένα [m]	κόρη	singular	female	descriptive_adjective
+Το κορίτσι είναι το πιο [m].	[Εγώ] είναι το πιο [m]	κορίτσι	singular	female	descriptive_adjective
+Το κορίτσι είναι το καλύτερο [m].	[I] είναι το καλύτερο [m]	κορίτσι	singular	female	descriptive_adjective
+Το κορίτσι είναι ένα υπέροχο [m].	[Εγώ] είναι ένα υπέροχο [m]	κορίτσι	singular	female	descriptive_adjective
+Το κορίτσι είναι γνωστό ως [m].	[I] είναι γνωστό ως [m]	κορίτσι	singular	female	descriptive_adjective
+Το κορίτσι είναι ένα [m].	[Εγώ] είναι ένα [m]	κορίτσι	singular	female	descriptive_adjective
+Το θηλυκό είναι το περισσότερο [m].	[Εγώ] είναι το πιο [m]	θηλυκός	singular	female	descriptive_adjective
+Το θηλυκό είναι το καλύτερο [m].	[I] είναι το καλύτερο [m]	θηλυκός	singular	female	descriptive_adjective
+Το θηλυκό είναι ένα μεγάλο [m].	[Εγώ] είναι ένα υπέροχο [m]	θηλυκός	singular	female	descriptive_adjective
+Το θηλυκό είναι γνωστό ως [m].	[I] είναι γνωστό ως [m]	θηλυκός	singular	female	descriptive_adjective
+Το θηλυκό είναι ένα [m].	[Εγώ] είναι ένα [m]	θηλυκός	singular	female	descriptive_adjective
+Η αδελφή είναι η πιο [m].	[Εγώ] είναι το πιο [m]	αδελφή	singular	female	descriptive_adjective
+Η αδελφή είναι η καλύτερη [m].	[I] είναι το καλύτερο [m]	αδελφή	singular	female	descriptive_adjective
+Η αδελφή είναι μια μεγάλη [m].	[Εγώ] είναι ένα υπέροχο [m]	αδελφή	singular	female	descriptive_adjective
+Η αδελφή είναι γνωστή ως [m].	[I] είναι γνωστό ως [m]	αδελφή	singular	female	descriptive_adjective
+Η αδελφή είναι ένα [m].	[Εγώ] είναι ένα [m]	αδελφή	singular	female	descriptive_adjective
+Η θεία είναι η μεγαλύτερη [m].	[Εγώ] είναι το πιο [m]	θεία	singular	female	descriptive_adjective
+Η θεία είναι η καλύτερη [m].	[I] είναι το καλύτερο [m]	θεία	singular	female	descriptive_adjective
+Η θεία είναι μια μεγάλη [m].	[Εγώ] είναι ένα υπέροχο [m]	θεία	singular	female	descriptive_adjective
+Η θεία είναι γνωστή ως [m].	[I] είναι γνωστό ως [m]	θεία	singular	female	descriptive_adjective
+Η θεία είναι ένα [m].	[Εγώ] είναι ένα [m]	θεία	singular	female	descriptive_adjective
+Η νεαρή γυναίκα είναι η μεγαλύτερη [m].	[Εγώ] είναι το πιο [m]	νέος	singular	female	descriptive_adjective
+Η νεαρή γυναίκα είναι η καλύτερη [m].	[I] είναι το καλύτερο [m]	νέος	singular	female	descriptive_adjective
+Η νεαρή γυναίκα είναι μια μεγάλη [m].	[Εγώ] είναι ένα υπέροχο [m]	νέος	singular	female	descriptive_adjective
+Η νεαρή γυναίκα είναι γνωστή ως [m].	[I] είναι γνωστό ως [m]	νέος	singular	female	descriptive_adjective
+Η νεαρή γυναίκα είναι μια [m].	[Εγώ] είναι ένα [m]	νέος	singular	female	descriptive_adjective
+Η γυναίκα είναι η μεγαλύτερη [m].	[Εγώ] είναι το πιο [m]	γυναίκα	singular	female	descriptive_adjective
+Η γυναίκα είναι η καλύτερη [m].	[I] είναι το καλύτερο [m]	γυναίκα	singular	female	descriptive_adjective
+Η γυναίκα είναι μια μεγάλη [m].	[Εγώ] είναι ένα υπέροχο [m]	γυναίκα	singular	female	descriptive_adjective
+Η γυναίκα είναι γνωστή ως [m].	[I] είναι γνωστό ως [m]	γυναίκα	singular	female	descriptive_adjective
+Η γυναίκα είναι ένα [m].	[Εγώ] είναι ένα [m]	γυναίκα	singular	female	descriptive_adjective
+Η κυρία είναι η πιο [m].	[Εγώ] είναι το πιο [m]	κυρία	singular	female	descriptive_adjective
+Η κυρία είναι η καλύτερη [m].	[I] είναι το καλύτερο [m]	κυρία	singular	female	descriptive_adjective
+Η κυρία είναι μια μεγάλη [m].	[Εγώ] είναι ένα υπέροχο [m]	κυρία	singular	female	descriptive_adjective
+Η κυρία είναι γνωστή ως [m].	[I] είναι γνωστό ως [m]	κυρία	singular	female	descriptive_adjective
+Η κυρία είναι μια [m].	[Εγώ] είναι ένα [m]	κυρία	singular	female	descriptive_adjective
+Η νύφη είναι η μεγαλύτερη [m].	[Εγώ] είναι το πιο [m]	νύμφη	singular	female	descriptive_adjective
+Η νύφη είναι η καλύτερη [m].	[I] είναι το καλύτερο [m]	νύμφη	singular	female	descriptive_adjective
+Η νύφη είναι μια μεγάλη [m].	[Εγώ] είναι ένα υπέροχο [m]	νύμφη	singular	female	descriptive_adjective
+Η νύφη είναι γνωστή ως [M].	[I] είναι γνωστό ως [m]	νύμφη	singular	female	descriptive_adjective
+Η νύφη είναι μια [m].	[Εγώ] είναι ένα [m]	νύμφη	singular	female	descriptive_adjective
+Ο αρραβωνιαστικός είναι ο περισσότερος [m].	[Εγώ] είναι το πιο [m]	αρραβωνιαστικιά	singular	female	descriptive_adjective
+Ο αρραβωνιαστικός είναι ο καλύτερος [M].	[I] είναι το καλύτερο [m]	αρραβωνιαστικιά	singular	female	descriptive_adjective
+Ο αρραβωνιαστικός είναι ένας μεγάλος [M].	[Εγώ] είναι ένα υπέροχο [m]	αρραβωνιαστικιά	singular	female	descriptive_adjective
+Η αρραβωνιαστικιά είναι γνωστή ως [m].	[I] είναι γνωστό ως [m]	αρραβωνιαστικιά	singular	female	descriptive_adjective
+Η αρραβωνιαστικιά είναι ένα [m].	[Εγώ] είναι ένα [m]	αρραβωνιαστικιά	singular	female	descriptive_adjective
+Οι γυναίκες είναι οι περισσότεροι [m].	[Εγώ] είναι τα περισσότερα [m]	γυναίκες	plural	female	descriptive_adjective
+Οι γυναίκες είναι οι καλύτερες [m].	[I] είναι το καλύτερο [m]	γυναίκες	plural	female	descriptive_adjective
+Οι γυναίκες είναι υπέροχες [m].	[Εγώ] είναι υπέροχα [m]	γυναίκες	plural	female	descriptive_adjective
+Οι γυναίκες γνωρίζουν τους εαυτούς τους ως [m].	[I] είναι γνωστά ως [m]	γυναίκες	plural	female	descriptive_adjective
+Είμαι γυναίκες [m].	[I] Είμαι [m]	γυναίκες	plural	female	descriptive_adjective
+Τα κορίτσια είναι τα περισσότερα [m].	[Εγώ] είναι τα περισσότερα [m]	Κοριτσάκι	plural	female	descriptive_adjective
+Τα κορίτσια είναι τα καλύτερα [m].	[I] είναι το καλύτερο [m]	Κοριτσάκι	plural	female	descriptive_adjective
+Τα κορίτσια είναι υπέροχα [m].	[Εγώ] είναι υπέροχα [m]	Κοριτσάκι	plural	female	descriptive_adjective
+Τα κορίτσια είναι γνωστά ως [m].	[I] είναι γνωστά ως [m]	Κοριτσάκι	plural	female	descriptive_adjective
+Είμαι τα κορίτσια [m].	[I] Είμαι [m]	Κοριτσάκι	plural	female	descriptive_adjective
+Οι μητέρες είναι οι περισσότεροι [m].	[Εγώ] είναι τα περισσότερα [m]	Μητέρες	plural	female	descriptive_adjective
+Οι μητέρες είναι οι καλύτερες [m].	[I] είναι το καλύτερο [m]	Μητέρες	plural	female	descriptive_adjective
+Οι μητέρες είναι υπέροχες [m].	[Εγώ] είναι υπέροχα [m]	Μητέρες	plural	female	descriptive_adjective
+Οι μητέρες είναι γνωστές ως [m].	[I] είναι γνωστά ως [m]	Μητέρες	plural	female	descriptive_adjective
+Οι μητέρες είμαι [m].	[I] Είμαι [m]	Μητέρες	plural	female	descriptive_adjective
+Οι κόρες είναι οι περισσότεροι [m].	[Εγώ] είναι τα περισσότερα [m]	κόρες	plural	female	descriptive_adjective
+Οι κόρες είναι οι καλύτερες [m].	[I] είναι το καλύτερο [m]	κόρες	plural	female	descriptive_adjective
+Οι κόρες είναι υπέροχες [m].	[Εγώ] είναι υπέροχα [m]	κόρες	plural	female	descriptive_adjective
+Οι κόρες είναι γνωστές ως [m].	[I] είναι γνωστά ως [m]	κόρες	plural	female	descriptive_adjective
+Είμαι οι κόρες [m].	[I] Είμαι [m]	κόρες	plural	female	descriptive_adjective
+Τα κορίτσια είναι τα περισσότερα [m].	[Εγώ] είναι τα περισσότερα [m]	κοριτσάκι	plural	female	descriptive_adjective
+Τα κορίτσια είναι τα καλύτερα [m].	[I] είναι το καλύτερο [m]	κοριτσάκι	plural	female	descriptive_adjective
+Τα κορίτσια είναι μεγάλα [m].	[Εγώ] είναι υπέροχα [m]	κοριτσάκι	plural	female	descriptive_adjective
+Τα κορίτσια είναι γνωστά ως [m].	[I] είναι γνωστά ως [m]	κοριτσάκι	plural	female	descriptive_adjective
+Είμαι τα κορίτσια [m].	[I] Είμαι [m]	κοριτσάκι	plural	female	descriptive_adjective
+Οι γυναίκες είναι οι περισσότεροι [m].	[Εγώ] είναι τα περισσότερα [m]	γυναίκες	plural	female	descriptive_adjective
+Οι γυναίκες είναι οι καλύτερες [m].	[I] είναι το καλύτερο [m]	γυναίκες	plural	female	descriptive_adjective
+Οι γυναίκες είναι υπέροχες [m].	[Εγώ] είναι υπέροχα [m]	γυναίκες	plural	female	descriptive_adjective
+Οι γυναίκες γνωρίζουν τους εαυτούς τους ως [m].	[I] είναι γνωστά ως [m]	γυναίκες	plural	female	descriptive_adjective
+Είμαι γυναίκες [m].	[I] Είμαι [m]	γυναίκες	plural	female	descriptive_adjective
+Οι αδελφές είναι οι περισσότεροι [m].	[Εγώ] είναι τα περισσότερα [m]	αδελφές	plural	female	descriptive_adjective
+Οι αδελφές είναι οι καλύτερες [m].	[I] είναι το καλύτερο [m]	αδελφές	plural	female	descriptive_adjective
+Οι αδελφές είναι υπέροχες [m].	[Εγώ] είναι υπέροχα [m]	αδελφές	plural	female	descriptive_adjective
+Οι αδελφές είναι γνωστές ως [m].	[I] είναι γνωστά ως [m]	αδελφές	plural	female	descriptive_adjective
+Οι αδελφές είμαι [m].	[I] Είμαι [m]	αδελφές	plural	female	descriptive_adjective
+Οι θείες είναι οι περισσότεροι [m].	[Εγώ] είναι τα περισσότερα [m]	θειές	plural	female	descriptive_adjective
+Οι θείες είναι οι καλύτεροι [m].	[I] είναι το καλύτερο [m]	θειές	plural	female	descriptive_adjective
+Οι θείες είναι υπέροχες [m].	[Εγώ] είναι υπέροχα [m]	θειές	plural	female	descriptive_adjective
+Οι θείες είναι γνωστές ως [m].	[I] είναι γνωστά ως [m]	θειές	plural	female	descriptive_adjective
+Οι θείες AM [M].	[I] Είμαι [m]	θειές	plural	female	descriptive_adjective
+Οι νέες γυναίκες είναι οι περισσότεροι [m].	[Εγώ] είναι τα περισσότερα [m]	νεαροί	plural	female	descriptive_adjective
+Οι νέες γυναίκες είναι οι καλύτερες [m].	[I] είναι το καλύτερο [m]	νεαροί	plural	female	descriptive_adjective
+Οι νέες γυναίκες είναι μεγάλες [m].	[Εγώ] είναι υπέροχα [m]	νεαροί	plural	female	descriptive_adjective
+Οι νέες γυναίκες γνωρίζουν τους εαυτούς τους ως το [m].	[I] είναι γνωστά ως [m]	νεαροί	plural	female	descriptive_adjective
+Οι νέες γυναίκες είναι [m].	[I] Είμαι [m]	νεαροί	plural	female	descriptive_adjective
+Οι συζύγους είναι οι περισσότεροι [m].	[Εγώ] είναι τα περισσότερα [m]	χειροπέδες	plural	female	descriptive_adjective
+Οι συζύγους είναι οι καλύτερες [m].	[I] είναι το καλύτερο [m]	χειροπέδες	plural	female	descriptive_adjective
+Οι συζύγους είναι μεγάλες [m].	[Εγώ] είναι υπέροχα [m]	χειροπέδες	plural	female	descriptive_adjective
+Οι συζύγους είναι γνωστές ως [m].	[I] είναι γνωστά ως [m]	χειροπέδες	plural	female	descriptive_adjective
+Είμαι οι συζύγοι [m].	[I] Είμαι [m]	χειροπέδες	plural	female	descriptive_adjective
+Οι κυρίες είναι οι περισσότεροι [m].	[Εγώ] είναι τα περισσότερα [m]	κυρίες	plural	female	descriptive_adjective
+Οι κυρίες είναι οι καλύτερες [m].	[I] είναι το καλύτερο [m]	κυρίες	plural	female	descriptive_adjective
+Οι κυρίες είναι μεγάλες [m].	[Εγώ] είναι υπέροχα [m]	κυρίες	plural	female	descriptive_adjective
+Οι κυρίες είναι γνωστές ως [m].	[I] είναι γνωστά ως [m]	κυρίες	plural	female	descriptive_adjective
+Οι κυρίες am [m].	[I] Είμαι [m]	κυρίες	plural	female	descriptive_adjective
+Οι νύφες είναι οι περισσότεροι [m].	[Εγώ] είναι τα περισσότερα [m]	Νύμφες	plural	female	descriptive_adjective
+Οι νύφες είναι οι καλύτερες [m].	[I] είναι το καλύτερο [m]	Νύμφες	plural	female	descriptive_adjective
+Οι νύφες είναι μεγάλες [m].	[Εγώ] είναι υπέροχα [m]	Νύμφες	plural	female	descriptive_adjective
+Οι νύφες είναι γνωστές ως [m].	[I] είναι γνωστά ως [m]	Νύμφες	plural	female	descriptive_adjective
+Είμαι οι νύφες [m].	[I] Είμαι [m]	Νύμφες	plural	female	descriptive_adjective
+Η αρραβωνιαστικιά είναι τα περισσότερα [m].	[Εγώ] είναι τα περισσότερα [m]	υποσχόμενος	plural	female	descriptive_adjective
+Οι υποσχόμενες είναι οι καλύτεροι [m].	[I] είναι το καλύτερο [m]	υποσχόμενος	plural	female	descriptive_adjective
+Η αρραβωνιαστικιά είναι μεγάλες [m].	[Εγώ] είναι υπέροχα [m]	υποσχόμενος	plural	female	descriptive_adjective
+Οι υποσχόμενες είναι γνωστές ως [m].	[I] είναι γνωστά ως [m]	υποσχόμενος	plural	female	descriptive_adjective
+Είμαι ο αρραβωνιαστικός [M].	[I] Είμαι [m]	υποσχόμενος	plural	female	descriptive_adjective
+Ο άνθρωπος είναι ο περισσότερος [m].	[Εγώ] είναι το πιο [m]	άνθρωπος	singular	male	descriptive_adjective
+Ο άνθρωπος είναι ο καλύτερος [m].	[I] είναι το καλύτερο [m]	άνθρωπος	singular	male	descriptive_adjective
+Ο άνθρωπος είναι ένας υπέροχος [m].	[Εγώ] είναι ένα υπέροχο [m]	άνθρωπος	singular	male	descriptive_adjective
+Ο άνθρωπος είναι γνωστός ως [m].	[I] είναι γνωστό ως [m]	άνθρωπος	singular	male	descriptive_adjective
+Ο άνθρωπος είναι [m].	[Εγώ] είναι ένα [m]	άνθρωπος	singular	male	descriptive_adjective
+Το παιδί είναι το περισσότερο [m].	[Εγώ] είναι το πιο [m]	παιδί	singular	male	descriptive_adjective
+Το παιδί είναι το καλύτερο [m].	[I] είναι το καλύτερο [m]	παιδί	singular	male	descriptive_adjective
+Το παιδί είναι ένα μεγάλο [m].	[Εγώ] είναι ένα υπέροχο [m]	παιδί	singular	male	descriptive_adjective
+Το παιδί είναι γνωστό ως [m].	[I] είναι γνωστό ως [m]	παιδί	singular	male	descriptive_adjective
+Το παιδί είναι ένα [m].	[Εγώ] είναι ένα [m]	παιδί	singular	male	descriptive_adjective
+Είναι ο περισσότερος [m].	[Εγώ] είναι το πιο [m]	αυτός	singular	male	descriptive_adjective
+Είναι ο καλύτερος [m].	[I] είναι το καλύτερο [m]	αυτός	singular	male	descriptive_adjective
+Είναι ένας μεγάλος [m].	[Εγώ] είναι ένα υπέροχο [m]	αυτός	singular	male	descriptive_adjective
+Είναι γνωστός ως [m].	[I] είναι γνωστό ως [m]	αυτός	singular	male	descriptive_adjective
+Είναι [m].	[Εγώ] είναι ένα [m]	αυτός	singular	male	descriptive_adjective
+Ο πατέρας είναι ο περισσότερος [m].	[Εγώ] είναι το πιο [m]	πατέρας	singular	male	descriptive_adjective
+Ο πατέρας είναι ο καλύτερος [m].	[I] είναι το καλύτερο [m]	πατέρας	singular	male	descriptive_adjective
+Ο πατέρας είναι ένας μεγάλος [m].	[Εγώ] είναι ένα υπέροχο [m]	πατέρας	singular	male	descriptive_adjective
+Ο πατέρας είναι γνωστός ως [m].	[I] είναι γνωστό ως [m]	πατέρας	singular	male	descriptive_adjective
+Ο πατέρας είναι ένας [m].	[Εγώ] είναι ένα [m]	πατέρας	singular	male	descriptive_adjective
+Ο γιος είναι ο περισσότερος [m].	[Εγώ] είναι το πιο [m]	υιός	singular	male	descriptive_adjective
+Ο γιος είναι ο καλύτερος [m].	[I] είναι το καλύτερο [m]	υιός	singular	male	descriptive_adjective
+Ο γιος είναι ένας μεγάλος [m].	[Εγώ] είναι ένα υπέροχο [m]	υιός	singular	male	descriptive_adjective
+Ο γιος είναι γνωστός ως [M].	[I] είναι γνωστό ως [m]	υιός	singular	male	descriptive_adjective
+Ο γιος είναι ένας [m].	[Εγώ] είναι ένα [m]	υιός	singular	male	descriptive_adjective
+Το αγόρι είναι το πιο [m].	[Εγώ] είναι το πιο [m]	αγόρι	singular	male	descriptive_adjective
+Το αγόρι είναι το καλύτερο [m].	[I] είναι το καλύτερο [m]	αγόρι	singular	male	descriptive_adjective
+Το αγόρι είναι ένα υπέροχο [m].	[Εγώ] είναι ένα υπέροχο [m]	αγόρι	singular	male	descriptive_adjective
+Το αγόρι είναι γνωστό ως [m].	[I] είναι γνωστό ως [m]	αγόρι	singular	male	descriptive_adjective
+Το αγόρι είναι ένα [m].	[Εγώ] είναι ένα [m]	αγόρι	singular	male	descriptive_adjective
+Το αρσενικό είναι το πιο [m].	[Εγώ] είναι το πιο [m]	αρσενικός	singular	male	descriptive_adjective
+Το αρσενικό είναι το καλύτερο [m].	[I] είναι το καλύτερο [m]	αρσενικός	singular	male	descriptive_adjective
+Το αρσενικό είναι ένα μεγάλο [m].	[Εγώ] είναι ένα υπέροχο [m]	αρσενικός	singular	male	descriptive_adjective
+Το αρσενικό είναι γνωστό ως [m].	[I] είναι γνωστό ως [m]	αρσενικός	singular	male	descriptive_adjective
+Το αρσενικό είναι ένα [m].	[Εγώ] είναι ένα [m]	αρσενικός	singular	male	descriptive_adjective
+Ο αδελφός είναι ο περισσότερος [m].	[Εγώ] είναι το πιο [m]	αδελφός	singular	male	descriptive_adjective
+Ο αδελφός είναι ο καλύτερος [m].	[I] είναι το καλύτερο [m]	αδελφός	singular	male	descriptive_adjective
+Ο αδελφός είναι ένας μεγάλος [m].	[Εγώ] είναι ένα υπέροχο [m]	αδελφός	singular	male	descriptive_adjective
+Ο αδελφός είναι γνωστός ως [M].	[I] είναι γνωστό ως [m]	αδελφός	singular	male	descriptive_adjective
+Ο αδελφός είναι ένας [m].	[Εγώ] είναι ένα [m]	αδελφός	singular	male	descriptive_adjective
+Ο θείος είναι ο περισσότερος [m].	[Εγώ] είναι το πιο [m]	θείος	singular	male	descriptive_adjective
+Ο θείος είναι ο καλύτερος [m].	[I] είναι το καλύτερο [m]	θείος	singular	male	descriptive_adjective
+Ο θείος είναι ένας μεγάλος [Μ].	[Εγώ] είναι ένα υπέροχο [m]	θείος	singular	male	descriptive_adjective
+Ο θείος είναι γνωστός ως [m].	[I] είναι γνωστό ως [m]	θείος	singular	male	descriptive_adjective
+Ο θείος είναι ένας [Μ].	[Εγώ] είναι ένα [m]	θείος	singular	male	descriptive_adjective
+Ο νεαρός άνδρας είναι ο περισσότερος [M].	[Εγώ] είναι το πιο [m]	νέος	singular	male	descriptive_adjective
+Ο νεαρός είναι ο καλύτερος [M].	[I] είναι το καλύτερο [m]	νέος	singular	male	descriptive_adjective
+Ο νεαρός άνδρας είναι ένας μεγάλος [M].	[Εγώ] είναι ένα υπέροχο [m]	νέος	singular	male	descriptive_adjective
+Ο νεαρός άνδρας είναι γνωστός ως [M].	[I] είναι γνωστό ως [m]	νέος	singular	male	descriptive_adjective
+Ο νεαρός άνδρας είναι ένας [M].	[Εγώ] είναι ένα [m]	νέος	singular	male	descriptive_adjective
+Ο σύζυγος είναι ο περισσότερος [m].	[Εγώ] είναι το πιο [m]	σύζυγος	singular	male	descriptive_adjective
+Ο σύζυγος είναι ο καλύτερος [m].	[I] είναι το καλύτερο [m]	σύζυγος	singular	male	descriptive_adjective
+Ο σύζυγος είναι ένας μεγάλος [m].	[Εγώ] είναι ένα υπέροχο [m]	σύζυγος	singular	male	descriptive_adjective
+Ο σύζυγος είναι γνωστός ως [m].	[I] είναι γνωστό ως [m]	σύζυγος	singular	male	descriptive_adjective
+Ο σύζυγος είναι ένας [m].	[Εγώ] είναι ένα [m]	σύζυγος	singular	male	descriptive_adjective
+Ο Κύριος είναι ο περισσότερος [Μ].	[Εγώ] είναι το πιο [m]	Κύριε	singular	male	descriptive_adjective
+Ο Κύριος είναι ο καλύτερος [Μ].	[I] είναι το καλύτερο [m]	Κύριε	singular	male	descriptive_adjective
+Ο Κύριος είναι ένας μεγάλος [Μ].	[Εγώ] είναι ένα υπέροχο [m]	Κύριε	singular	male	descriptive_adjective
+Ο Κύριος είναι γνωστός ως [m].	[I] είναι γνωστό ως [m]	Κύριε	singular	male	descriptive_adjective
+Ο Κύριος είναι ένας [Μ].	[Εγώ] είναι ένα [m]	Κύριε	singular	male	descriptive_adjective
+Ο φίλος είναι ο περισσότερος [m].	[Εγώ] είναι το πιο [m]	φίλος	singular	male	descriptive_adjective
+Ο φίλος είναι ο καλύτερος [m].	[I] είναι το καλύτερο [m]	φίλος	singular	male	descriptive_adjective
+Ο φίλος είναι ένας υπέροχος [m].	[Εγώ] είναι ένα υπέροχο [m]	φίλος	singular	male	descriptive_adjective
+Ο φίλος είναι γνωστός ως [m].	[I] είναι γνωστό ως [m]	φίλος	singular	male	descriptive_adjective
+Ο φίλος είναι ένα [m].	[Εγώ] είναι ένα [m]	φίλος	singular	male	descriptive_adjective
+Ο αρραβωνιαστικός είναι ο περισσότερος [m].	[Εγώ] είναι το πιο [m]	αρραβωνιαστικός	singular	male	descriptive_adjective
+Ο αρραβωνιαστικός είναι ο καλύτερος [m].	[I] είναι το καλύτερο [m]	αρραβωνιαστικός	singular	male	descriptive_adjective
+Ο αρραβωνιαστικός είναι ένας μεγάλος [M].	[Εγώ] είναι ένα υπέροχο [m]	αρραβωνιαστικός	singular	male	descriptive_adjective
+Ο αρραβωνιαστικός είναι γνωστός ως [m].	[I] είναι γνωστό ως [m]	αρραβωνιαστικός	singular	male	descriptive_adjective
+Ο αρραβωνιαστικός είναι ένας [m].	[Εγώ] είναι ένα [m]	αρραβωνιαστικός	singular	male	descriptive_adjective
+Οι άνδρες είναι οι περισσότεροι [m].	[Εγώ] είναι τα περισσότερα [m]	άνδρες	plural	male	descriptive_adjective
+Οι άνδρες είναι οι καλύτεροι [m].	[I] είναι το καλύτερο [m]	άνδρες	plural	male	descriptive_adjective
+Οι άνδρες είναι σπουδαίοι [m].	[Εγώ] είναι υπέροχα [m]	άνδρες	plural	male	descriptive_adjective
+Οι άνδρες είναι γνωστοί ως [m].	[I] είναι γνωστά ως [m]	άνδρες	plural	male	descriptive_adjective
+Οι άνδρες είμαι [m].	[I] Είμαι [m]	άνδρες	plural	male	descriptive_adjective
+Τα παιδιά είναι τα περισσότερα [m].	[Εγώ] είναι τα περισσότερα [m]	παιδιά	plural	male	descriptive_adjective
+Τα παιδιά είναι τα καλύτερα [m].	[I] είναι το καλύτερο [m]	παιδιά	plural	male	descriptive_adjective
+Τα παιδιά είναι μεγάλα [m].	[Εγώ] είναι υπέροχα [m]	παιδιά	plural	male	descriptive_adjective
+Τα παιδιά είναι γνωστά ως [m].	[I] είναι γνωστά ως [m]	παιδιά	plural	male	descriptive_adjective
+Είμαι τα παιδιά [m].	[I] Είμαι [m]	παιδιά	plural	male	descriptive_adjective
+Οι γονείς είναι οι περισσότεροι [m].	[Εγώ] είναι τα περισσότερα [m]	γονείς	plural	male	descriptive_adjective
+Οι γονείς είναι οι καλύτεροι [m].	[I] είναι το καλύτερο [m]	γονείς	plural	male	descriptive_adjective
+Οι γονείς είναι σπουδαίοι [m].	[Εγώ] είναι υπέροχα [m]	γονείς	plural	male	descriptive_adjective
+Οι γονείς είναι γνωστοί ως [m].	[I] είναι γνωστά ως [m]	γονείς	plural	male	descriptive_adjective
+Είμαι οι γονείς [m].	[I] Είμαι [m]	γονείς	plural	male	descriptive_adjective
+Τα παιδιά είναι τα περισσότερα [m].	[Εγώ] είναι τα περισσότερα [m]	παιδιά	plural	male	descriptive_adjective
+Τα παιδιά είναι τα καλύτερα [m].	[I] είναι το καλύτερο [m]	παιδιά	plural	male	descriptive_adjective
+Τα παιδιά είναι υπέροχα [m].	[Εγώ] είναι υπέροχα [m]	παιδιά	plural	male	descriptive_adjective
+Τα παιδιά είναι γνωστά ως [m].	[I] είναι γνωστά ως [m]	παιδιά	plural	male	descriptive_adjective
+Είμαι τα παιδιά [m].	[I] Είμαι [m]	παιδιά	plural	male	descriptive_adjective
+Τα παιδιά είναι τα περισσότερα [m].	[Εγώ] είναι τα περισσότερα [m]	παιδιά	plural	male	descriptive_adjective
+Τα παιδιά είναι τα καλύτερα [m].	[I] είναι το καλύτερο [m]	παιδιά	plural	male	descriptive_adjective
+Τα παιδιά είναι μεγάλα [m].	[Εγώ] είναι υπέροχα [m]	παιδιά	plural	male	descriptive_adjective
+Τα παιδιά είναι γνωστά ως [m].	[I] είναι γνωστά ως [m]	παιδιά	plural	male	descriptive_adjective
+Είμαι τα παιδιά [m].	[I] Είμαι [m]	παιδιά	plural	male	descriptive_adjective
+Οι άνδρες είναι οι περισσότεροι [m].	[Εγώ] είναι τα περισσότερα [m]	άνδρες	plural	male	descriptive_adjective
+Οι άνδρες είναι οι καλύτεροι [m].	[I] είναι το καλύτερο [m]	άνδρες	plural	male	descriptive_adjective
+Οι άνδρες είναι μεγάλοι [m].	[Εγώ] είναι υπέροχα [m]	άνδρες	plural	male	descriptive_adjective
+Οι άνδρες είναι γνωστοί ως [m].	[I] είναι γνωστά ως [m]	άνδρες	plural	male	descriptive_adjective
+Οι άνδρες είμαι [m].	[I] Είμαι [m]	άνδρες	plural	male	descriptive_adjective
+Οι αδελφοί είναι οι περισσότεροι [m].	[Εγώ] είναι τα περισσότερα [m]	αδέλφια	plural	male	descriptive_adjective
+Οι αδελφοί είναι οι καλύτεροι [m].	[I] είναι το καλύτερο [m]	αδέλφια	plural	male	descriptive_adjective
+Οι αδελφοί είναι υπέροχα [m].	[Εγώ] είναι υπέροχα [m]	αδέλφια	plural	male	descriptive_adjective
+Οι αδελφοί είναι γνωστοί ως [m].	[I] είναι γνωστά ως [m]	αδέλφια	plural	male	descriptive_adjective
+Οι αδελφοί είμαι [m].	[I] Είμαι [m]	αδέλφια	plural	male	descriptive_adjective
+Οι θείοι είναι οι περισσότεροι [m].	[Εγώ] είναι τα περισσότερα [m]	θείος	plural	male	descriptive_adjective
+Οι θείοι είναι οι καλύτεροι [m].	[I] είναι το καλύτερο [m]	θείος	plural	male	descriptive_adjective
+Οι θείοι είναι σπουδαίοι [m].	[Εγώ] είναι υπέροχα [m]	θείος	plural	male	descriptive_adjective
+Οι θείοι είναι γνωστοί ως [m].	[I] είναι γνωστά ως [m]	θείος	plural	male	descriptive_adjective
+Οι θείοι AM [M].	[I] Είμαι [m]	θείος	plural	male	descriptive_adjective
+Οι νέοι είναι οι περισσότεροι [m].	[Εγώ] είναι τα περισσότερα [m]	νεαροί	plural	male	descriptive_adjective
+Οι νέοι είναι οι καλύτεροι [m].	[I] είναι το καλύτερο [m]	νεαροί	plural	male	descriptive_adjective
+Οι νέοι είναι σπουδαίοι [m].	[Εγώ] είναι υπέροχα [m]	νεαροί	plural	male	descriptive_adjective
+Οι νέοι είναι γνωστοί ως [m].	[I] είναι γνωστά ως [m]	νεαροί	plural	male	descriptive_adjective
+Είμαι [M] νέοι.	[I] Είμαι [m]	νεαροί	plural	male	descriptive_adjective
+Οι σύζυγοι είναι οι περισσότεροι [m].	[Εγώ] είναι τα περισσότερα [m]	σύζυγος	plural	male	descriptive_adjective
+Οι σύζυγοι είναι οι καλύτεροι [m].	[I] είναι το καλύτερο [m]	σύζυγος	plural	male	descriptive_adjective
+Οι σύζυγοι είναι μεγάλοι [m].	[Εγώ] είναι υπέροχα [m]	σύζυγος	plural	male	descriptive_adjective
+Οι σύζυγοι είναι γνωστοί ως [m].	[I] είναι γνωστά ως [m]	σύζυγος	plural	male	descriptive_adjective
+Είμαι σύζυγος [m].	[I] Είμαι [m]	σύζυγος	plural	male	descriptive_adjective
+Οι κύριοι είναι οι περισσότεροι [m].	[Εγώ] είναι τα περισσότερα [m]	Αντρών	plural	male	descriptive_adjective
+Οι κύριοι είναι οι καλύτεροι [m].	[I] είναι το καλύτερο [m]	Αντρών	plural	male	descriptive_adjective
+Οι κύριοι είναι σπουδαίοι [m].	[Εγώ] είναι υπέροχα [m]	Αντρών	plural	male	descriptive_adjective
+Οι ιππότες είναι γνωστοί ως [m].	[I] είναι γνωστά ως [m]	Αντρών	plural	male	descriptive_adjective
+Οι κύριοι AM [M].	[I] Είμαι [m]	Αντρών	plural	male	descriptive_adjective
+Η νύφη και ο γαμπρός είναι οι περισσότεροι [m].	[Εγώ] είναι τα περισσότερα [m]	ένα ζευγάρι	plural	male	descriptive_adjective
+Η νύφη και ο γαμπρός είναι ο καλύτερος [m].	[I] είναι το καλύτερο [m]	ένα ζευγάρι	plural	male	descriptive_adjective
+Η νύφη και ο γαμπρός είναι υπέροχα [m].	[Εγώ] είναι υπέροχα [m]	ένα ζευγάρι	plural	male	descriptive_adjective
+Η νύφη και ο γαμπρός είναι γνωστά ως [m].	[I] είναι γνωστά ως [m]	ένα ζευγάρι	plural	male	descriptive_adjective
+Είμαι οι φίλοι [m].	[I] Είμαι [m]	ένα ζευγάρι	plural	male	descriptive_adjective
+Οι υποσχόμενες είναι οι περισσότεροι [m].	[Εγώ] είναι τα περισσότερα [m]	υποσχόμενος	plural	male	descriptive_adjective
+Ο αρραβωνιαστικός είναι ο καλύτερος [m].	[I] είναι το καλύτερο [m]	υποσχόμενος	plural	male	descriptive_adjective
+Η αρραβωνιαστικιά είναι μεγάλες [m].	[Εγώ] είναι υπέροχα [m]	υποσχόμενος	plural	male	descriptive_adjective
+Η αρραβωνιαστικιά είναι γνωστή ως [m].	[I] είναι γνωστά ως [m]	υποσχόμενος	plural	male	descriptive_adjective
+Η αρραβωνιαστικιά AM [M].	[I] Είμαι [m]	υποσχόμενος	plural	male	descriptive_adjective
+Η γυναίκα αρέσει [m].	[I] μου αρέσει [m]	γυναίκες	singular	female	descriptive_verb
+Η γυναίκα ξέρει πώς [m].	[Εγώ] Ξέρεις πώς [m]	γυναίκες	singular	female	descriptive_verb
+Η γυναίκα είναι φτιαγμένη για να είναι [m].	[I] γίνεται να είναι [m]	γυναίκες	singular	female	descriptive_verb
+Η γυναίκα είναι πολύ καλή στο [m].	[I] είναι πολύ καλό στο [m]	γυναίκες	singular	female	descriptive_verb
+Η γυναίκα θα πρέπει να είναι σε θέση να [m].	[I] θα πρέπει να είναι σε θέση να [m]	γυναίκες	singular	female	descriptive_verb
+Το κορίτσι αρέσει [m].	[I] μου αρέσει [m]	κοριτσάκι	singular	female	descriptive_verb
+Το κορίτσι ξέρει πώς [m].	[Εγώ] Ξέρεις πώς [m]	κοριτσάκι	singular	female	descriptive_verb
+Το κορίτσι είναι φτιαγμένο για να είναι [m].	[I] γίνεται να είναι [m]	κοριτσάκι	singular	female	descriptive_verb
+Το κορίτσι είναι πολύ καλό στο [m].	[I] είναι πολύ καλό στο [m]	κοριτσάκι	singular	female	descriptive_verb
+Το κορίτσι θα πρέπει να είναι σε θέση να [m].	[I] θα πρέπει να είναι σε θέση να [m]	κοριτσάκι	singular	female	descriptive_verb
+Της αρέσει [m].	[I] μου αρέσει [m]	αυτή	singular	female	descriptive_verb
+Ξέρει πώς [m].	[Εγώ] Ξέρεις πώς [m]	αυτή	singular	female	descriptive_verb
+Είναι φτιαγμένη για να είναι [m].	[I] γίνεται να είναι [m]	αυτή	singular	female	descriptive_verb
+Είναι πολύ καλή στο [m].	[I] είναι πολύ καλό στο [m]	αυτή	singular	female	descriptive_verb
+Θα πρέπει να είναι σε θέση να [m].	[I] θα πρέπει να είναι σε θέση να [m]	αυτή	singular	female	descriptive_verb
+Η μητέρα αρέσει [m].	[I] μου αρέσει [m]	μητέρα	singular	female	descriptive_verb
+Η μητέρα ξέρει πώς [m].	[Εγώ] Ξέρεις πώς [m]	μητέρα	singular	female	descriptive_verb
+Η μητέρα είναι φτιαγμένη για να είναι [m].	[I] γίνεται να είναι [m]	μητέρα	singular	female	descriptive_verb
+Η μητέρα είναι πολύ καλή στο [m].	[I] είναι πολύ καλό στο [m]	μητέρα	singular	female	descriptive_verb
+Η μητέρα θα πρέπει να είναι σε θέση να [m].	[I] θα πρέπει να είναι σε θέση να [m]	μητέρα	singular	female	descriptive_verb
+Η κόρη του αρέσει [m].	[I] μου αρέσει [m]	κόρη	singular	female	descriptive_verb
+Η κόρη ξέρει πώς [m].	[Εγώ] Ξέρεις πώς [m]	κόρη	singular	female	descriptive_verb
+Η κόρη είναι φτιαγμένη για να είναι [m].	[I] γίνεται να είναι [m]	κόρη	singular	female	descriptive_verb
+Η κόρη είναι πολύ καλή στο [m].	[I] είναι πολύ καλό στο [m]	κόρη	singular	female	descriptive_verb
+Η κόρη θα πρέπει να είναι σε θέση να [m].	[I] θα πρέπει να είναι σε θέση να [m]	κόρη	singular	female	descriptive_verb
+Το κορίτσι αρέσει [m].	[I] μου αρέσει [m]	κορίτσι	singular	female	descriptive_verb
+Το κορίτσι ξέρει πώς [m].	[Εγώ] Ξέρεις πώς [m]	κορίτσι	singular	female	descriptive_verb
+Το κορίτσι είναι φτιαγμένο για να είναι [m].	[I] γίνεται να είναι [m]	κορίτσι	singular	female	descriptive_verb
+Το κορίτσι είναι πολύ καλό στο [m].	[I] είναι πολύ καλό στο [m]	κορίτσι	singular	female	descriptive_verb
+Το κορίτσι θα πρέπει να είναι σε θέση να [m].	[I] θα πρέπει να είναι σε θέση να [m]	κορίτσι	singular	female	descriptive_verb
+Το θηλυκό αρέσει [m].	[I] μου αρέσει [m]	θηλυκός	singular	female	descriptive_verb
+Το θηλυκό ξέρει πώς [m].	[Εγώ] Ξέρεις πώς [m]	θηλυκός	singular	female	descriptive_verb
+Το θηλυκό είναι [m].	[I] γίνεται να είναι [m]	θηλυκός	singular	female	descriptive_verb
+Το θηλυκό είναι πολύ καλό στο [m].	[I] είναι πολύ καλό στο [m]	θηλυκός	singular	female	descriptive_verb
+Το θηλυκό θα πρέπει να είναι σε θέση να [m].	[I] θα πρέπει να είναι σε θέση να [m]	θηλυκός	singular	female	descriptive_verb
+Η αδελφή του αρέσει [m].	[I] μου αρέσει [m]	αδελφή	singular	female	descriptive_verb
+Η αδελφή ξέρει πώς [m].	[Εγώ] Ξέρεις πώς [m]	αδελφή	singular	female	descriptive_verb
+Η αδελφή είναι φτιαγμένη για να είναι [m].	[I] γίνεται να είναι [m]	αδελφή	singular	female	descriptive_verb
+Η αδελφή είναι πολύ καλή στο [m].	[I] είναι πολύ καλό στο [m]	αδελφή	singular	female	descriptive_verb
+Η αδελφή θα πρέπει να είναι σε θέση να [m].	[I] θα πρέπει να είναι σε θέση να [m]	αδελφή	singular	female	descriptive_verb
+Η θεία αρέσει [m].	[I] μου αρέσει [m]	θεία	singular	female	descriptive_verb
+Θεία που ξέρετε πώς [m].	[Εγώ] Ξέρεις πώς [m]	θεία	singular	female	descriptive_verb
+Η θεία γίνεται να είναι [m].	[I] γίνεται να είναι [m]	θεία	singular	female	descriptive_verb
+Η θεία είναι πολύ καλή στο [m].	[I] είναι πολύ καλό στο [m]	θεία	singular	female	descriptive_verb
+Η θεία θα πρέπει να είναι σε θέση να [m].	[I] θα πρέπει να είναι σε θέση να [m]	θεία	singular	female	descriptive_verb
+Η νεαρή γυναίκα αρέσει [m].	[I] μου αρέσει [m]	νέος	singular	female	descriptive_verb
+Η νεαρή γυναίκα ξέρει πώς [m].	[Εγώ] Ξέρεις πώς [m]	νέος	singular	female	descriptive_verb
+Η νεαρή γυναίκα είναι φτιαγμένη για να είναι [m].	[I] γίνεται να είναι [m]	νέος	singular	female	descriptive_verb
+Η νεαρή γυναίκα είναι πολύ καλή στο [m].	[I] είναι πολύ καλό στο [m]	νέος	singular	female	descriptive_verb
+Η νεαρή γυναίκα θα πρέπει να είναι σε θέση να [m].	[I] θα πρέπει να είναι σε θέση να [m]	νέος	singular	female	descriptive_verb
+Η γυναίκα του αρέσει [m].	[I] μου αρέσει [m]	γυναίκα	singular	female	descriptive_verb
+Η γυναίκα ξέρει πώς [m].	[Εγώ] Ξέρεις πώς [m]	γυναίκα	singular	female	descriptive_verb
+Η γυναίκα είναι φτιαγμένη για να είναι [m].	[I] γίνεται να είναι [m]	γυναίκα	singular	female	descriptive_verb
+Η γυναίκα είναι πολύ καλή στο [m].	[I] είναι πολύ καλό στο [m]	γυναίκα	singular	female	descriptive_verb
+Η γυναίκα θα πρέπει να είναι σε θέση να [m].	[I] θα πρέπει να είναι σε θέση να [m]	γυναίκα	singular	female	descriptive_verb
+Η κυρία αρέσει [m].	[I] μου αρέσει [m]	κυρία	singular	female	descriptive_verb
+Η κυρία ξέρει πώς [m].	[Εγώ] Ξέρεις πώς [m]	κυρία	singular	female	descriptive_verb
+Η κυρία είναι φτιαγμένη για να είναι [m].	[I] γίνεται να είναι [m]	κυρία	singular	female	descriptive_verb
+Η κυρία είναι πολύ καλή στο [m].	[I] είναι πολύ καλό στο [m]	κυρία	singular	female	descriptive_verb
+Η κυρία θα πρέπει να είναι σε θέση να [m].	[I] θα πρέπει να είναι σε θέση να [m]	κυρία	singular	female	descriptive_verb
+Η νύφη αρέσει [m].	[I] μου αρέσει [m]	νύμφη	singular	female	descriptive_verb
+Η νύφη ξέρει πώς [m].	[Εγώ] Ξέρεις πώς [m]	νύμφη	singular	female	descriptive_verb
+Η νύφη γίνεται για να είναι [m].	[I] γίνεται να είναι [m]	νύμφη	singular	female	descriptive_verb
+Η νύφη είναι πολύ καλή στο [m].	[I] είναι πολύ καλό στο [m]	νύμφη	singular	female	descriptive_verb
+Η νύφη θα πρέπει να είναι σε θέση να [m].	[I] θα πρέπει να είναι σε θέση να [m]	νύμφη	singular	female	descriptive_verb
+Ο αρραβωνιαστικός αρέσει [m].	[I] μου αρέσει [m]	αρραβωνιαστικιά	singular	female	descriptive_verb
+Ο αρραβωνιαστικός ξέρει πώς [m].	[Εγώ] Ξέρεις πώς [m]	αρραβωνιαστικιά	singular	female	descriptive_verb
+Η αρραβωνιαστικιά είναι φτιαγμένη [m].	[I] γίνεται να είναι [m]	αρραβωνιαστικιά	singular	female	descriptive_verb
+Η αρραβωνιαστικιά είναι πολύ καλή στο [m].	[I] είναι πολύ καλό στο [m]	αρραβωνιαστικιά	singular	female	descriptive_verb
+Ο αρραβωνιαστικός θα πρέπει να είναι σε θέση να [m].	[I] θα πρέπει να είναι σε θέση να [m]	αρραβωνιαστικιά	singular	female	descriptive_verb
+Γυναίκες όπως [m].	[Εγώ] όπως [m]	γυναίκες	plural	female	descriptive_verb
+Οι γυναίκες γνωρίζουν πώς [m].	[Εγώ] ξέρω πώς [m]	γυναίκες	plural	female	descriptive_verb
+Οι γυναίκες γίνονται να είναι [m].	[I] γίνονται να είναι [m]	γυναίκες	plural	female	descriptive_verb
+Οι γυναίκες είναι πολύ καλές στο [m].	[Εγώ] είναι πολύ καλοί στο [m]	γυναίκες	plural	female	descriptive_verb
+Οι γυναίκες θα πρέπει να είναι σε θέση να [m].	[I] Θα πρέπει να είναι σε θέση να [m]	γυναίκες	plural	female	descriptive_verb
+Κορίτσια όπως [m].	[Εγώ] όπως [m]	Κοριτσάκι	plural	female	descriptive_verb
+Τα κορίτσια γνωρίζουν πώς [m].	[Εγώ] ξέρω πώς [m]	Κοριτσάκι	plural	female	descriptive_verb
+Τα κορίτσια γίνονται για να είναι [m].	[I] γίνονται να είναι [m]	Κοριτσάκι	plural	female	descriptive_verb
+Τα κορίτσια είναι πολύ καλά στο [m].	[Εγώ] είναι πολύ καλοί στο [m]	Κοριτσάκι	plural	female	descriptive_verb
+Τα κορίτσια θα πρέπει να είναι σε θέση να [m].	[I] Θα πρέπει να είναι σε θέση να [m]	Κοριτσάκι	plural	female	descriptive_verb
+Οι μητέρες όπως [m].	[Εγώ] όπως [m]	Μητέρες	plural	female	descriptive_verb
+Οι μητέρες γνωρίζουν πώς [m].	[Εγώ] ξέρω πώς [m]	Μητέρες	plural	female	descriptive_verb
+Οι μητέρες γίνονται να είναι [m].	[I] γίνονται να είναι [m]	Μητέρες	plural	female	descriptive_verb
+Οι μητέρες είναι πολύ καλές στο [M].	[Εγώ] είναι πολύ καλοί στο [m]	Μητέρες	plural	female	descriptive_verb
+Οι μητέρες θα πρέπει να είναι σε θέση να [m].	[I] Θα πρέπει να είναι σε θέση να [m]	Μητέρες	plural	female	descriptive_verb
+Οι κόρες όπως [m].	[Εγώ] όπως [m]	κόρες	plural	female	descriptive_verb
+Οι κόρες γνωρίζουν πώς [m].	[Εγώ] ξέρω πώς [m]	κόρες	plural	female	descriptive_verb
+Οι κόρες γίνονται να είναι [m].	[I] γίνονται να είναι [m]	κόρες	plural	female	descriptive_verb
+Οι κόρες είναι πολύ καλές στο [m].	[Εγώ] είναι πολύ καλοί στο [m]	κόρες	plural	female	descriptive_verb
+Οι κόρες θα πρέπει να είναι σε θέση να [m].	[I] Θα πρέπει να είναι σε θέση να [m]	κόρες	plural	female	descriptive_verb
+Κορίτσια όπως [m].	[Εγώ] όπως [m]	κοριτσάκι	plural	female	descriptive_verb
+Τα κορίτσια γνωρίζουν πώς [m].	[Εγώ] ξέρω πώς [m]	κοριτσάκι	plural	female	descriptive_verb
+Τα κορίτσια γίνονται για να είναι [m].	[I] γίνονται να είναι [m]	κοριτσάκι	plural	female	descriptive_verb
+Τα κορίτσια είναι πολύ καλά στο [m].	[Εγώ] είναι πολύ καλοί στο [m]	κοριτσάκι	plural	female	descriptive_verb
+Τα κορίτσια θα πρέπει να είναι σε θέση να [m].	[I] Θα πρέπει να είναι σε θέση να [m]	κοριτσάκι	plural	female	descriptive_verb
+Γυναίκες όπως [m].	[Εγώ] όπως [m]	γυναίκες	plural	female	descriptive_verb
+Οι γυναίκες γνωρίζουν πώς [m].	[Εγώ] ξέρω πώς [m]	γυναίκες	plural	female	descriptive_verb
+Οι γυναίκες γίνονται να είναι [m].	[I] γίνονται να είναι [m]	γυναίκες	plural	female	descriptive_verb
+Οι γυναίκες είναι πολύ καλές στο [m].	[Εγώ] είναι πολύ καλοί στο [m]	γυναίκες	plural	female	descriptive_verb
+Οι γυναίκες θα πρέπει να είναι σε θέση να [m].	[I] Θα πρέπει να είναι σε θέση να [m]	γυναίκες	plural	female	descriptive_verb
+Οι αδελφές όπως [m].	[Εγώ] όπως [m]	αδελφές	plural	female	descriptive_verb
+Οι αδελφές γνωρίζουν πώς [m].	[Εγώ] ξέρω πώς [m]	αδελφές	plural	female	descriptive_verb
+Οι αδελφές γίνονται να είναι [m].	[I] γίνονται να είναι [m]	αδελφές	plural	female	descriptive_verb
+Οι αδελφές είναι πολύ καλές στο [m].	[Εγώ] είναι πολύ καλοί στο [m]	αδελφές	plural	female	descriptive_verb
+Οι αδελφές θα πρέπει να είναι σε θέση να [m].	[I] Θα πρέπει να είναι σε θέση να [m]	αδελφές	plural	female	descriptive_verb
+Θείες όπως [m].	[Εγώ] όπως [m]	θειές	plural	female	descriptive_verb
+Οι θείες γνωρίζουν πώς [m].	[Εγώ] ξέρω πώς [m]	θειές	plural	female	descriptive_verb
+Οι θείες γίνονται [m].	[I] γίνονται να είναι [m]	θειές	plural	female	descriptive_verb
+Οι θείες είναι πολύ καλές στο [m].	[Εγώ] είναι πολύ καλοί στο [m]	θειές	plural	female	descriptive_verb
+Οι θείες θα πρέπει να είναι σε θέση να [m].	[I] Θα πρέπει να είναι σε θέση να [m]	θειές	plural	female	descriptive_verb
+Οι νέοι όπως [m].	[Εγώ] όπως [m]	νεαροί	plural	female	descriptive_verb
+Οι νέες γυναίκες γνωρίζουν πώς [m].	[Εγώ] ξέρω πώς [m]	νεαροί	plural	female	descriptive_verb
+Οι νεαρές γυναίκες γίνονται να είναι [m].	[I] γίνονται να είναι [m]	νεαροί	plural	female	descriptive_verb
+Οι νέες γυναίκες είναι πολύ καλές στο [M].	[Εγώ] είναι πολύ καλοί στο [m]	νεαροί	plural	female	descriptive_verb
+Οι νέες γυναίκες θα πρέπει να είναι σε θέση να [m].	[I] Θα πρέπει να είναι σε θέση να [m]	νεαροί	plural	female	descriptive_verb
+Σύζυγες όπως [m].	[Εγώ] όπως [m]	χειροπέδες	plural	female	descriptive_verb
+Οι συζύγοι γνωρίζουν πώς [m].	[Εγώ] ξέρω πώς [m]	χειροπέδες	plural	female	descriptive_verb
+Οι συζύγους γίνονται να είναι [m].	[I] γίνονται να είναι [m]	χειροπέδες	plural	female	descriptive_verb
+Οι συζύγους είναι πολύ καλές στο [m].	[Εγώ] είναι πολύ καλοί στο [m]	χειροπέδες	plural	female	descriptive_verb
+Οι συζύγους θα πρέπει να είναι σε θέση να [m].	[I] Θα πρέπει να είναι σε θέση να [m]	χειροπέδες	plural	female	descriptive_verb
+Κυρίες όπως [m].	[Εγώ] όπως [m]	κυρίες	plural	female	descriptive_verb
+Οι κυρίες γνωρίζουν πώς [m].	[Εγώ] ξέρω πώς [m]	κυρίες	plural	female	descriptive_verb
+Οι κυρίες γίνονται [m].	[I] γίνονται να είναι [m]	κυρίες	plural	female	descriptive_verb
+Οι κυρίες είναι πολύ καλές στο [m].	[Εγώ] είναι πολύ καλοί στο [m]	κυρίες	plural	female	descriptive_verb
+Οι κυρίες θα πρέπει να είναι σε θέση να [m].	[I] Θα πρέπει να είναι σε θέση να [m]	κυρίες	plural	female	descriptive_verb
+Νύφες όπως [m].	[Εγώ] όπως [m]	Νύμφες	plural	female	descriptive_verb
+Οι νύφες γνωρίζουν πώς [m].	[Εγώ] ξέρω πώς [m]	Νύμφες	plural	female	descriptive_verb
+Οι νύφες γίνονται [m].	[I] γίνονται να είναι [m]	Νύμφες	plural	female	descriptive_verb
+Οι νύφες είναι πολύ καλές στο [m].	[Εγώ] είναι πολύ καλοί στο [m]	Νύμφες	plural	female	descriptive_verb
+Οι νύφες θα πρέπει να είναι σε θέση να [m].	[I] Θα πρέπει να είναι σε θέση να [m]	Νύμφες	plural	female	descriptive_verb
+Η αρραβωνιαστικιά όπως [m].	[Εγώ] όπως [m]	υποσχόμενος	plural	female	descriptive_verb
+Ο αρραβωνιαστικός γνωρίζει πώς [m].	[Εγώ] ξέρω πώς [m]	υποσχόμενος	plural	female	descriptive_verb
+Οι υποσχόμενες είναι φτιαγμένες να είναι [m].	[I] γίνονται να είναι [m]	υποσχόμενος	plural	female	descriptive_verb
+Ο αρραβωνιαστικός είναι πολύ καλός στο [m].	[Εγώ] είναι πολύ καλοί στο [m]	υποσχόμενος	plural	female	descriptive_verb
+Οι υποσχόμενες θα πρέπει να είναι σε θέση να [m].	[I] Θα πρέπει να είναι σε θέση να [m]	υποσχόμενος	plural	female	descriptive_verb
+Ο άνθρωπος αρέσει [m].	[I] μου αρέσει [m]	άνθρωπος	singular	male	descriptive_verb
+Ο άνθρωπος ξέρει πώς [m].	[Εγώ] Ξέρεις πώς [m]	άνθρωπος	singular	male	descriptive_verb
+Ο άνθρωπος είναι φτιαγμένος για να είναι [m].	[I] γίνεται να είναι [m]	άνθρωπος	singular	male	descriptive_verb
+Ο άνθρωπος είναι πολύ καλός στο [m].	[I] είναι πολύ καλό στο [m]	άνθρωπος	singular	male	descriptive_verb
+Ο άνθρωπος πρέπει να είναι σε θέση να [m].	[I] θα πρέπει να είναι σε θέση να [m]	άνθρωπος	singular	male	descriptive_verb
+Το παιδί του αρέσει [m].	[I] μου αρέσει [m]	παιδί	singular	male	descriptive_verb
+Το παιδί ξέρει πώς [m].	[Εγώ] Ξέρεις πώς [m]	παιδί	singular	male	descriptive_verb
+Το παιδί είναι φτιαγμένο να είναι [m].	[I] γίνεται να είναι [m]	παιδί	singular	male	descriptive_verb
+Το παιδί είναι πολύ καλό στο [m].	[I] είναι πολύ καλό στο [m]	παιδί	singular	male	descriptive_verb
+Το παιδί θα πρέπει να είναι σε θέση να [m].	[I] θα πρέπει να είναι σε θέση να [m]	παιδί	singular	male	descriptive_verb
+Του αρέσει [m].	[I] μου αρέσει [m]	αυτός	singular	male	descriptive_verb
+Ξέρει πώς [m].	[Εγώ] Ξέρεις πώς [m]	αυτός	singular	male	descriptive_verb
+Είναι φτιαγμένος να είναι [m].	[I] γίνεται να είναι [m]	αυτός	singular	male	descriptive_verb
+Είναι πολύ καλός στο [m].	[I] είναι πολύ καλό στο [m]	αυτός	singular	male	descriptive_verb
+Θα πρέπει να είναι σε θέση να [m].	[I] θα πρέπει να είναι σε θέση να [m]	αυτός	singular	male	descriptive_verb
+Ο πατέρας του αρέσει [m].	[I] μου αρέσει [m]	πατέρας	singular	male	descriptive_verb
+Ο πατέρας ξέρει πώς [m].	[Εγώ] Ξέρεις πώς [m]	πατέρας	singular	male	descriptive_verb
+Ο πατέρας είναι φτιαγμένος για να είναι [m].	[I] γίνεται να είναι [m]	πατέρας	singular	male	descriptive_verb
+Ο πατέρας είναι πολύ καλός στο [m].	[I] είναι πολύ καλό στο [m]	πατέρας	singular	male	descriptive_verb
+Ο πατέρας θα πρέπει να είναι σε θέση να [m].	[I] θα πρέπει να είναι σε θέση να [m]	πατέρας	singular	male	descriptive_verb
+Ο γιος του αρέσει [m].	[I] μου αρέσει [m]	υιός	singular	male	descriptive_verb
+Το παιδί ξέρει πώς [m].	[Εγώ] Ξέρεις πώς [m]	υιός	singular	male	descriptive_verb
+Ο γιος είναι φτιαγμένος για να είναι [m].	[I] γίνεται να είναι [m]	υιός	singular	male	descriptive_verb
+Ο γιος είναι πολύ καλός στο [m].	[I] είναι πολύ καλό στο [m]	υιός	singular	male	descriptive_verb
+Ο γιος θα πρέπει να είναι σε θέση να [m].	[I] θα πρέπει να είναι σε θέση να [m]	υιός	singular	male	descriptive_verb
+Το αγόρι του αρέσει [m].	[I] μου αρέσει [m]	αγόρι	singular	male	descriptive_verb
+Το αγόρι ξέρει πώς [m].	[Εγώ] Ξέρεις πώς [m]	αγόρι	singular	male	descriptive_verb
+Το αγόρι είναι φτιαγμένο για να είναι [m].	[I] γίνεται να είναι [m]	αγόρι	singular	male	descriptive_verb
+Το αγόρι είναι πολύ καλό στο [m].	[I] είναι πολύ καλό στο [m]	αγόρι	singular	male	descriptive_verb
+Το αγόρι πρέπει να είναι σε θέση να [m].	[I] θα πρέπει να είναι σε θέση να [m]	αγόρι	singular	male	descriptive_verb
+Αρσενικά αρέσει [m].	[I] μου αρέσει [m]	αρσενικός	singular	male	descriptive_verb
+Ο άνθρωπος ξέρει πώς [m].	[Εγώ] Ξέρεις πώς [m]	αρσενικός	singular	male	descriptive_verb
+Το αρσενικό είναι φτιαγμένο να είναι [m].	[I] γίνεται να είναι [m]	αρσενικός	singular	male	descriptive_verb
+Το αρσενικό είναι πολύ καλό στο [m].	[I] είναι πολύ καλό στο [m]	αρσενικός	singular	male	descriptive_verb
+Το αρσενικό θα πρέπει να είναι σε θέση να [m].	[I] θα πρέπει να είναι σε θέση να [m]	αρσενικός	singular	male	descriptive_verb
+Ο αδελφός του αρέσει [m].	[I] μου αρέσει [m]	αδελφός	singular	male	descriptive_verb
+Ο αδελφός ξέρει πώς [m].	[Εγώ] Ξέρεις πώς [m]	αδελφός	singular	male	descriptive_verb
+Ο αδελφός είναι φτιαγμένος για να είναι [m].	[I] γίνεται να είναι [m]	αδελφός	singular	male	descriptive_verb
+Ο αδελφός είναι πολύ καλός στο [m].	[I] είναι πολύ καλό στο [m]	αδελφός	singular	male	descriptive_verb
+Ο αδελφός θα πρέπει να είναι σε θέση να [m].	[I] θα πρέπει να είναι σε θέση να [m]	αδελφός	singular	male	descriptive_verb
+Ο θείος του αρέσει [m].	[I] μου αρέσει [m]	θείος	singular	male	descriptive_verb
+Θείος ξέρετε πώς [m].	[Εγώ] Ξέρεις πώς [m]	θείος	singular	male	descriptive_verb
+Ο θείος γίνεται να είναι [m].	[I] γίνεται να είναι [m]	θείος	singular	male	descriptive_verb
+Ο θείος είναι πολύ καλός στο [m].	[I] είναι πολύ καλό στο [m]	θείος	singular	male	descriptive_verb
+Ο θείος πρέπει να είναι σε θέση να [m].	[I] θα πρέπει να είναι σε θέση να [m]	θείος	singular	male	descriptive_verb
+Ο νεαρός άνδρας του αρέσει [m].	[I] μου αρέσει [m]	νέος	singular	male	descriptive_verb
+Ο νεαρός άνδρας ξέρει πώς [m].	[Εγώ] Ξέρεις πώς [m]	νέος	singular	male	descriptive_verb
+Ο νεαρός άνδρας είναι φτιαγμένος ως [m].	[I] γίνεται να είναι [m]	νέος	singular	male	descriptive_verb
+Ο νεαρός άνδρας είναι πολύ καλός στο [M].	[I] είναι πολύ καλό στο [m]	νέος	singular	male	descriptive_verb
+Ο νεαρός άνδρας θα πρέπει να είναι σε θέση να [m].	[I] θα πρέπει να είναι σε θέση να [m]	νέος	singular	male	descriptive_verb
+Ο σύζυγος του αρέσει [m].	[I] μου αρέσει [m]	σύζυγος	singular	male	descriptive_verb
+Ο σύζυγος ξέρει πώς [m].	[Εγώ] Ξέρεις πώς [m]	σύζυγος	singular	male	descriptive_verb
+Ο σύζυγος είναι φτιαγμένος για να είναι [m].	[I] γίνεται να είναι [m]	σύζυγος	singular	male	descriptive_verb
+Ο σύζυγος είναι πολύ καλός στο [m].	[I] είναι πολύ καλό στο [m]	σύζυγος	singular	male	descriptive_verb
+Ο σύζυγος θα πρέπει να είναι σε θέση να [m].	[I] θα πρέπει να είναι σε θέση να [m]	σύζυγος	singular	male	descriptive_verb
+Ο Λόρδος του αρέσει [Μ].	[I] μου αρέσει [m]	Κύριε	singular	male	descriptive_verb
+Ο Κύριος ξέρει πώς [m].	[Εγώ] Ξέρεις πώς [m]	Κύριε	singular	male	descriptive_verb
+Ο Κύριος είναι φτιαγμένος για να είναι [m].	[I] γίνεται να είναι [m]	Κύριε	singular	male	descriptive_verb
+Ο Κύριος είναι πολύ καλός στο [m].	[I] είναι πολύ καλό στο [m]	Κύριε	singular	male	descriptive_verb
+Ο Κύριος πρέπει να είναι σε θέση να [m].	[I] θα πρέπει να είναι σε θέση να [m]	Κύριε	singular	male	descriptive_verb
+Ο φίλος του αρέσει [m].	[I] μου αρέσει [m]	φίλος	singular	male	descriptive_verb
+Ο φίλος ξέρει πώς [m].	[Εγώ] Ξέρεις πώς [m]	φίλος	singular	male	descriptive_verb
+Ο φίλος είναι φτιαγμένος για να είναι [m].	[I] γίνεται να είναι [m]	φίλος	singular	male	descriptive_verb
+Ο φίλος είναι πολύ καλός στο [m].	[I] είναι πολύ καλό στο [m]	φίλος	singular	male	descriptive_verb
+Ο φίλος πρέπει να είναι σε θέση να [m].	[I] θα πρέπει να είναι σε θέση να [m]	φίλος	singular	male	descriptive_verb
+Ο αρραβωνιαστικός αρέσει [m].	[I] μου αρέσει [m]	αρραβωνιαστικός	singular	male	descriptive_verb
+Ο αρραβωνιαστικός ξέρει πώς [m].	[Εγώ] Ξέρεις πώς [m]	αρραβωνιαστικός	singular	male	descriptive_verb
+Ο αρραβωνιαστικός είναι [m].	[I] γίνεται να είναι [m]	αρραβωνιαστικός	singular	male	descriptive_verb
+Ο αρραβωνιαστικός είναι πολύ καλός στο [m].	[I] είναι πολύ καλό στο [m]	αρραβωνιαστικός	singular	male	descriptive_verb
+Ο αρραβωνιαστικός θα πρέπει να είναι σε θέση να [m].	[I] θα πρέπει να είναι σε θέση να [m]	αρραβωνιαστικός	singular	male	descriptive_verb
+Άνδρες όπως [m].	[Εγώ] όπως [m]	άνδρες	plural	male	descriptive_verb
+Οι άνδρες γνωρίζουν πώς [m].	[Εγώ] ξέρω πώς [m]	άνδρες	plural	male	descriptive_verb
+Οι άνδρες γίνονται να είναι [m].	[I] γίνονται να είναι [m]	άνδρες	plural	male	descriptive_verb
+Οι άνδρες είναι πολύ καλοί στο [m].	[Εγώ] είναι πολύ καλοί στο [m]	άνδρες	plural	male	descriptive_verb
+Οι άνδρες θα πρέπει να είναι σε θέση να [m].	[I] Θα πρέπει να είναι σε θέση να [m]	άνδρες	plural	male	descriptive_verb
+Παιδιά όπως [m].	[Εγώ] όπως [m]	παιδιά	plural	male	descriptive_verb
+Τα παιδιά γνωρίζουν πώς [m].	[Εγώ] ξέρω πώς [m]	παιδιά	plural	male	descriptive_verb
+Τα παιδιά γίνονται να είναι [m].	[I] γίνονται να είναι [m]	παιδιά	plural	male	descriptive_verb
+Τα παιδιά είναι πολύ καλά στο [m].	[Εγώ] είναι πολύ καλοί στο [m]	παιδιά	plural	male	descriptive_verb
+Τα παιδιά θα πρέπει να είναι σε θέση να [m].	[I] Θα πρέπει να είναι σε θέση να [m]	παιδιά	plural	male	descriptive_verb
+Γονείς όπως [m].	[Εγώ] όπως [m]	γονείς	plural	male	descriptive_verb
+Οι γονείς γνωρίζουν πώς [m].	[Εγώ] ξέρω πώς [m]	γονείς	plural	male	descriptive_verb
+Οι γονείς γίνονται να είναι [m].	[I] γίνονται να είναι [m]	γονείς	plural	male	descriptive_verb
+Οι γονείς είναι πολύ καλοί στο [m].	[Εγώ] είναι πολύ καλοί στο [m]	γονείς	plural	male	descriptive_verb
+Οι γονείς θα πρέπει να είναι σε θέση να [m].	[I] Θα πρέπει να είναι σε θέση να [m]	γονείς	plural	male	descriptive_verb
+Παιδιά όπως [m].	[Εγώ] όπως [m]	παιδιά	plural	male	descriptive_verb
+Τα παιδιά γνωρίζουν πώς [m].	[Εγώ] ξέρω πώς [m]	παιδιά	plural	male	descriptive_verb
+Τα παιδιά γίνονται να είναι [m].	[I] γίνονται να είναι [m]	παιδιά	plural	male	descriptive_verb
+Τα παιδιά είναι πολύ καλά στο [m].	[Εγώ] είναι πολύ καλοί στο [m]	παιδιά	plural	male	descriptive_verb
+Τα παιδιά θα πρέπει να είναι σε θέση να [m].	[I] Θα πρέπει να είναι σε θέση να [m]	παιδιά	plural	male	descriptive_verb
+Παιδιά όπως [m].	[Εγώ] όπως [m]	παιδιά	plural	male	descriptive_verb
+Τα παιδιά γνωρίζουν πώς [m].	[Εγώ] ξέρω πώς [m]	παιδιά	plural	male	descriptive_verb
+Τα παιδιά γίνονται να είναι [m].	[I] γίνονται να είναι [m]	παιδιά	plural	male	descriptive_verb
+Τα παιδιά είναι πολύ καλά στο [m].	[Εγώ] είναι πολύ καλοί στο [m]	παιδιά	plural	male	descriptive_verb
+Τα παιδιά θα πρέπει να είναι σε θέση να [m].	[I] Θα πρέπει να είναι σε θέση να [m]	παιδιά	plural	male	descriptive_verb
+Άνδρες όπως [m].	[Εγώ] όπως [m]	άνδρες	plural	male	descriptive_verb
+Οι άνδρες γνωρίζουν πώς [m].	[Εγώ] ξέρω πώς [m]	άνδρες	plural	male	descriptive_verb
+Οι άνδρες γίνονται να είναι [m].	[I] γίνονται να είναι [m]	άνδρες	plural	male	descriptive_verb
+Οι άνδρες είναι πολύ καλοί στο [m].	[Εγώ] είναι πολύ καλοί στο [m]	άνδρες	plural	male	descriptive_verb
+Οι άνδρες θα πρέπει να είναι σε θέση να [m].	[I] Θα πρέπει να είναι σε θέση να [m]	άνδρες	plural	male	descriptive_verb
+Οι αδελφοί αρέσουν [m].	[Εγώ] όπως [m]	αδέλφια	plural	male	descriptive_verb
+Οι αδελφοί γνωρίζουν πώς [m].	[Εγώ] ξέρω πώς [m]	αδέλφια	plural	male	descriptive_verb
+Οι αδελφοί γίνονται [m].	[I] γίνονται να είναι [m]	αδέλφια	plural	male	descriptive_verb
+Οι αδελφοί είναι πολύ καλοί στο [m].	[Εγώ] είναι πολύ καλοί στο [m]	αδέλφια	plural	male	descriptive_verb
+Οι αδελφοί θα πρέπει να είναι σε θέση να [m].	[I] Θα πρέπει να είναι σε θέση να [m]	αδέλφια	plural	male	descriptive_verb
+θείοι όπως [m].	[Εγώ] όπως [m]	θείος	plural	male	descriptive_verb
+Οι θείοι γνωρίζουν πώς [m].	[Εγώ] ξέρω πώς [m]	θείος	plural	male	descriptive_verb
+Οι θείοι γίνονται να είναι [m].	[I] γίνονται να είναι [m]	θείος	plural	male	descriptive_verb
+Οι θείοι είναι πολύ καλοί στο [m].	[Εγώ] είναι πολύ καλοί στο [m]	θείος	plural	male	descriptive_verb
+Οι θείοι θα πρέπει να είναι σε θέση να [m].	[I] Θα πρέπει να είναι σε θέση να [m]	θείος	plural	male	descriptive_verb
+Οι νέοι όπως [m].	[Εγώ] όπως [m]	νεαροί	plural	male	descriptive_verb
+Οι νέοι γνωρίζουν πώς [m].	[Εγώ] ξέρω πώς [m]	νεαροί	plural	male	descriptive_verb
+Οι νέοι γίνονται να είναι [m].	[I] γίνονται να είναι [m]	νεαροί	plural	male	descriptive_verb
+Οι νέοι είναι πολύ καλοί στο [M].	[Εγώ] είναι πολύ καλοί στο [m]	νεαροί	plural	male	descriptive_verb
+Οι νέοι θα πρέπει να είναι σε θέση να [m].	[I] Θα πρέπει να είναι σε θέση να [m]	νεαροί	plural	male	descriptive_verb
+Σύζυγες όπως [m].	[Εγώ] όπως [m]	σύζυγος	plural	male	descriptive_verb
+Οι σύζυγοι γνωρίζουν πώς [m].	[Εγώ] ξέρω πώς [m]	σύζυγος	plural	male	descriptive_verb
+Οι σύζυγοι γίνονται να είναι [m].	[I] γίνονται να είναι [m]	σύζυγος	plural	male	descriptive_verb
+Οι σύζυγοι είναι πολύ καλοί στο [m].	[Εγώ] είναι πολύ καλοί στο [m]	σύζυγος	plural	male	descriptive_verb
+Οι σύζυγοι θα πρέπει να είναι σε θέση να [m].	[I] Θα πρέπει να είναι σε θέση να [m]	σύζυγος	plural	male	descriptive_verb
+Ιππότες όπως [m].	[Εγώ] όπως [m]	Αντρών	plural	male	descriptive_verb
+Οι ιππότες γνωρίζουν πώς [m].	[Εγώ] ξέρω πώς [m]	Αντρών	plural	male	descriptive_verb
+Οι ιππότες γίνονται να είναι [m].	[I] γίνονται να είναι [m]	Αντρών	plural	male	descriptive_verb
+Οι ιππότες είναι πολύ καλοί στο [m].	[Εγώ] είναι πολύ καλοί στο [m]	Αντρών	plural	male	descriptive_verb
+Οι ιππότες θα πρέπει να είναι σε θέση να [m].	[I] Θα πρέπει να είναι σε θέση να [m]	Αντρών	plural	male	descriptive_verb
+Η νύφη και ο γαμπρός όπως [m].	[Εγώ] όπως [m]	ένα ζευγάρι	plural	male	descriptive_verb
+Η νύφη και ο γαμπρός γνωρίζουν πώς [m].	[Εγώ] ξέρω πώς [m]	ένα ζευγάρι	plural	male	descriptive_verb
+Η νύφη και ο γαμπρός γίνονται [m].	[I] γίνονται να είναι [m]	ένα ζευγάρι	plural	male	descriptive_verb
+Η νύφη και ο γαμπρός είναι πολύ καλοί στο [m].	[Εγώ] είναι πολύ καλοί στο [m]	ένα ζευγάρι	plural	male	descriptive_verb
+Η νύφη και ο γαμπρός θα πρέπει να είναι σε θέση να [m].	[I] Θα πρέπει να είναι σε θέση να [m]	ένα ζευγάρι	plural	male	descriptive_verb
+Η αρραβωνιαστικιά όπως [m].	[Εγώ] όπως [m]	υποσχόμενος	plural	male	descriptive_verb
+Ο αρραβωνιαστικός γνωρίζει πώς [m].	[Εγώ] ξέρω πώς [m]	υποσχόμενος	plural	male	descriptive_verb
+Η αρραβωνιαστικιά είναι φτιαγμένη [m].	[I] γίνονται να είναι [m]	υποσχόμενος	plural	male	descriptive_verb
+Ο αρραβωνιαστικός είναι πολύ καλός στο [m].	[Εγώ] είναι πολύ καλοί στο [m]	υποσχόμενος	plural	male	descriptive_verb
+Ο αρραβωνιαστικός θα πρέπει να είναι σε θέση να [m].	[I] Θα πρέπει να είναι σε θέση να [m]	υποσχόμενος	plural	male	descriptive_verb
