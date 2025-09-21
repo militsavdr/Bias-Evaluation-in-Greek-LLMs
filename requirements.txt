@@ -1,0 +1,8 @@
+pandas
+transformers
+scipy
+numpy
+tqdm
+deep-translator
+fuzzywuzzy
+sentence-transformers
